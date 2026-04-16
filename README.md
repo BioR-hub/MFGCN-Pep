@@ -1,5 +1,9 @@
 # MFGCN-Pep
 
+## Integrating Multi-modal Language Models with Graph Structural Learning for Bioactive Peptide Prediction
+
+![Graphical Abstract](1.png)
+
 Code and data resources for the paper **Integrating Multi-modal Language Models with Graph Structural Learning for Bioactive Peptide Prediction**.
 
 ## Overview
@@ -19,6 +23,7 @@ MFGCN-Pep/
 |   |-- Modeling.py
 |   `-- Model_pred.py
 |-- Raw Data/
+|-- 1.png
 `-- graphical_abstract.tif
 ```
 
