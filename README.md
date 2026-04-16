@@ -19,7 +19,7 @@ MFGCN-Pep/
 |   |-- Modeling.py
 |   `-- Model_pred.py
 |-- Raw Data/
-`-- 图文摘要.tif
+`-- graphical_abstract.tif
 ```
 
 ## Main Workflow
