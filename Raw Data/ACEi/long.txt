@@ -1,0 +1,1534 @@
+id 	seq 	len 	molwt 	ic50	source 	mice 	method 	assay 	bitter 	pi 	bp
+1003	EKDERF	6	822.3	14.3 μM	Milk (Ovine milk proteins)	ND	UF, FPLC, RP-HPLC, IT-MS (CE-MS)	Cushman and Cheung (1971)	ND	4.68	ND 
+1005	YIPIQY	6	795.2	10 μM	Milk (Ovine milk proteins)	ND	UF, FPLC, RP-HPLC, IT-MS (CE-MS)	Cushman and Cheung (1971)	ND	5.52	ND 
+1007	MAIPPKK	7	784.03	ND 	Bovine k-casein macropeptide	SHR	RP-HPLC-MS/MS	Atherton and Sheppard (1989)	ND	10.00	40 (approx)
+1015	AHEPVK	6	679.53	62.8 μM	Fungi (Mushroom (P.Cystidiosus))	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	6.79	ND 
+1019	LGFPTTKTYFPHF	13	1555.8	4.92 μM	Porcine hemoglobin	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	8.60	ND 
+1020	VVYPWT	6	763.89	6.02 μM	Porcine hemoglobin	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	5.49	ND 
+1021	PYVRYL	6	809.96	ND 	Milk	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	9.00	ND 
+1023	LRIPVA	6	667.85	0.38 μM	Spinach	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	9.75	ND 
+1035	VECYGPNRPQF	11	1309.46	29.6 μM	Algae	ND	ASF(Ammonium Sulfate fractionation), GFC, IEC, RP-	Cushman and Cheung (1971)	ND	5.97	ND 
+1039	FCVLRP	6	733.93	12.3 μM	Shrimp	ND	UF, GFC, RP-HPLC	Cushman and Cheung, Nakamura et al. (1995)	ND	8.25	ND 
+1040	IFVPAF	6	692.86	3.4 μM	Shrimp	ND	UF, GFC, RP-HPLC	Cushman and Cheung, Nakamura et al. (1995)	ND	5.52	ND 
+1041	KPPETV	6	669.78	24.1 μM	Shrimp	ND	UF, GFC, RP-HPLC	Cushman and Cheung, Nakamura et al. (1995)	ND	6.00	ND 
+1046	EVMAGNLYPG	10	1050.19	18.4 μM	Blue mussel (Mytilus edulis)	SHR	GFC, IOC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	20 (approx)
+1047	VVYPWTQRF	9	1195.39	66 μM	Oyster	SHR	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	ND 
+1048	MEGAQEAQGD	10	1035.05	15.9 μM	Sea-cucumber	SHR	GFC, IOC, RP-HPLC	Cushman and Cheung (1971)	ND	3.57	17 (approx)
+1049	GPLGLLGFLGPLGLS	15	1410.72	90.03 μM	Squid gelatin	ND	UF, SEC, RP-HPLC	Wu J et al., 2002	ND	5.52	ND 
+1064	IKPLNY	6	746.9	43 μM	Fish (Dried Bonito)	ND	HPLC	Cushman and Cheung (1971)	ND	8.59	ND 
+1065	IVGRPRHQG	9	1019.17	6.2 μM	Fish (Dried Bonito)	WMR	HPLC	Cushman and Cheung (1971)	ND	12.00	ND 
+1071	DYGLYP	6	726.78	62 μM	Fish (Dried Bonito)	ND	HPLC	Cushman and Cheung (1971)	ND	3.80	ND 
+1076	IVGRPRH	7	833.99	300 μM	Fish (Dried Bonito)	SHR	HPLC, RP-HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	12.00	25 
+1077	HERDPTHIKWGD	12	1490.6	8 μM	Fish (Bonito muscle)	ND	HPLC	Cushman and Cheung (1971)	ND	6.00	ND 
+1078	PTHIKWGD	8	953.07	8 μM	Fish (Bonito muscle)	ND	HPLC	Cushman and Cheung (1971)	ND	7.17	ND 
+1087	GDLGKTTTVSNWSPPKYKDTP	21	2292.53	11.28 μM	Fish (Tuna frame protein)	SHR	UF, IEC, HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	8.43	20 (approx)
+1088	WPEAAELMMEVDP	13	1517.73	21.6 μM	Fish (Tuna dark muscle)	SHR	IEC, RP-HPLC, 	Cushman and Cheung (1971), Yamamoto and others	ND	3.50	15 (approx)
+1089	MIFPGAGGPEL	11	1088.29	26.3 μM	Fish (Yellowfin sole)	SHR	UF, HPLC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	35 (approx)
+1090	PGPLGLTGP	9	807.94	95 μM	Fish (Skate skin)	ND	RP-HPLC, SEC	Cushman and Cheung (1971)	ND	5.96	ND 
+1091	QLGFLGPR	8	887.05	148 μM	Fish (Skate skin)	ND	RP-HPLC, SEC	Cushman and Cheung (1971)	ND	9.75	ND 
+1106	TFPHGP	6	654.72	833 μM	Fish (Seaweed pipefish)	ND	FPLC AND RP-HPLC	Cushman and Cheung (1971)	ND	6.40	ND 
+1107	HWTTQR	6	827.9	1570 μM	Fish (Seaweed pipefish)	ND	FPLC AND RP-HPLC	Cushman and Cheung (1971)	ND	9.76	ND 
+1122	ALPMHIR	7	837.05	ND 	Milk	ND	ND	ND	ND	9.80	ND 
+1123	AQTQSLVYP	9	1006.12	ND 	Milk	ND	ND	ND	ND	5.57	ND 
+1126	AVPYPQR	7	829.95	ND 	Milk	ND	ND	ND	ND	8.79	ND 
+1129	AYFYPE	6	788.85	ND 	Milk	ND	ND	ND	ND	4.00	ND 
+1130	CMENSA	6	653.72	ND 	Milk	ND	ND	ND	ND	4.00	ND 
+1131	DAYPSGAW	8	865.9	ND 	Milk	ND	ND	ND	ND	3.80	ND 
+1132	EMPFPK	6	747.91	ND 	Milk	ND	ND	ND	ND	6.10	ND 
+1133	FAQTQSLVYP	10	1153.3	ND 	Milk	ND	ND	ND	ND	5.52	ND 
+1138	GLDIQK	6	672.78	ND 	Milk	ND	ND	ND	ND	5.84	ND 
+1143	HPFAQTQSLVYP	12	1387.56	ND 	Milk	ND	ND	ND	ND	6.74	ND 
+1145	IHPFAQTQSLVYP	13	1500.72	ND 	Milk	ND	ND	ND	ND	6.74	ND 
+1151	KIHPFAQTQSLVYP	14	1628.89	ND 	Milk	ND	ND	ND	ND	8.60	ND 
+1152	KVLPVPE	7	780.96	>1000 μM/L	Bacteria (Lactobacillus helviticus)	ND	ND	ND	ND	6.00	ND 
+1153	KVLPLP	6	665.87	5 μM/L	Bacteria (Lactobacillus helviticus)	ND	ND	ND	ND	8.75	ND 
+1155	KYPVQPFTESQSLTL	15	1737.97	ND 	Milk	ND	ND	ND	ND	6.00	ND 
+1156	LAHKAL	6	651.81	ND 	Milk	ND	ND	ND	ND	8.76	ND 
+1159	LAYFYP	6	772.9	ND 	Milk	ND	ND	ND	ND	5.52	ND 
+1160	LDAQSAPLR	9	970.09	ND 	Milk	ND	ND	ND	ND	5.84	ND 
+1163	LLYQQPVLGPVRGPFPIIV	19	2106.58	ND 	Milk	ND	ND	ND	ND	8.75	ND 
+1165	LPQNIPPLTQTPVVVPPFLQPEVMGVSK	28	3026.63	ND 	Milk	ND	ND	ND	ND	6.00	ND 
+1181	QSLVYP	6	705.81	ND 	Milk	ND	ND	ND	ND	5.52	ND 
+1182	QTQSLVYP	8	935.04	ND 	Milk	ND	ND	ND	ND	5.52	ND 
+1183	RDMPIQAF	8	977.15	ND 	Milk	ND	ND	ND	ND	5.84	ND 
+1187	SKVLPVPE	8	868.04	ND 	Milk	ND	ND	ND	ND	5.72	ND 
+1189	TPVVVPPFLQP	11	1193.45	ND 	Milk	ND	ND	ND	ND	5.19	ND 
+1190	TQSLVYP	7	806.91	ND 	Milk	ND	ND	ND	ND	5.18	ND 
+1191	TTMPLW	6	747.91	ND 	Milk	ND	ND	ND	ND	5.19	ND 
+1194	VAGTWY	6	695.77	ND 	Milk	ND	ND	ND	ND	5.49	ND 
+1197	VGINYWLAHK	10	1200.41	ND 	Milk	ND	ND	ND	ND	8.57	ND 
+1198	VLDTDYK	7	852.94	ND 	Milk	ND	ND	ND	ND	4.21	ND 
+1204	VYPFPG	6	678.79	ND 	Milk	ND	ND	ND	ND	5.49	ND 
+1209	YIPIQYVLSR	10	1251.49	ND 	Milk	ND	ND	ND	ND	8.59	ND 
+1210	YKVPQL	6	746.9	ND 	Milk	ND	ND	ND	ND	8.59	ND 
+1214	YPVQPFTE	8	980.09	ND 	Milk	ND	ND	ND	ND	4.00	ND 
+1215	YQQPVL	6	746.86	ND 	Milk	ND	ND	ND	ND	5.52	ND 
+1216	YQQPVLGPVR	10	1156.35	ND 	Milk	ND	ND	ND	ND	8.75	ND 
+1223	GQMRQPI	7	828.98	ND 	Flaxseed protein	SHR	EDUF	Udenigwe et al.	ND	9.75	20 (approx)
+1226	DYLRSC	6	755.84	ND 	Flaxseed protein	SHR	EDUF	Udenigwe et al.	ND	5.83	20 (approx)
+1227	ARDLPGQ	7	755.83	ND 	Flaxseed protein	SHR	EDUF	Udenigwe et al.	ND	5.88	20 (approx)
+1229	RGLERA	6	700.8	ND 	Flaxseed protein	SHR	EDUF	Udenigwe et al.	ND	9.60	20 (approx)
+1230	TCRGLERA	8	905.04	ND 	Flaxseed protein	SHR	EDUF	Udenigwe et al.	ND	7.91	20 (approx)
+1237	IMVAEAR	7	788.96	84.12 μM	Sweet-potato tuber defensin	ND	Ni2+-chelate AC	TLC (Holmquist et al., 1979)	ND	6.00	ND 
+1239	CFCTKPC	7	801	1.31 μM	Sweet-potato tuber defensin	ND	Ni2+-chelate AC	TLC (Holmquist et al., 1979)	ND	7.96	ND 
+1240	MCESASSK	8	841.95	75.93 μM	Sweet-potato tuber defensin	ND	Ni2+-chelate AC	TLC (Holmquist et al., 1979)	ND	5.75	ND 
+1243	FTDVDFIK	8	984.12	0.42 μM	Sweet-potato tuber thioredoxinh	ND	Ni2+-chelate AC	TLC (Holmquist et al., 1979)	ND	4.21	ND 
+1244	MMEPMVK	7	865.13	1.03 μM	Sweet-potato tuber thioredoxinh	ND	Ni2+-chelate AC	TLC (Holmquist et al., 1979)	ND	5.75	ND 
+1257	NIDTDI	6	689.72	ND 	Flaxseed protein	ND	Ultra performance liquid chromatography (UPLC)	Wanasundara et al.	ND	3.56	ND 
+1258	NIDTDL	6	689.72	ND 	Flaxseed protein	ND	Ultra performance liquid chromatography (UPLC)	Wanasundara et al.	ND	3.56	ND 
+1259	NLDTDI	6	689.72	ND 	Flaxseed protein	ND	Ultra performance liquid chromatography (UPLC)	Wanasundara et al.	ND	3.56	ND 
+1260	NLDTDL	6	689.72	ND 	Flaxseed protein	ND	Ultra performance liquid chromatography (UPLC)	Wanasundara et al.	ND	3.56	ND 
+1262	VTPALR	6	655.8	82.4 μM	Legume (Mung bean protein)	ND	ND	Extraction-free spectrophotometric assay	ND	9.72	ND 
+1263	KLPAGTLF	8	846.04	13.4 μM	Legume (Mung bean protein)	ND	ND	Extraction-free spectrophotometric assay	ND	8.75	ND 
+1289	TTENVLFG	8	879.97	3.03 mg/ml	Fungi (Mushroom)	SHR	UF, EC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	ND 
+1290	LSMGSASLSP	10	567.3	0.19 mg/ml	Fungi (Mushroom (Hypsizygus marmoreus))	SHR	UF, EC, RP-HPLC	Cushman and Cheung (1971)	ND	5.52	ND 
+1291	LVNDLVTPVFDNL	13	1458.67	4.00 mg/ml	Fungi (Mushroom)	SHR	UF, EC, RP-HPLC	Cushman and Cheung (1971)	ND	3.56	ND 
+1292	RLPSEFDLSAFLRA	14	1622.85	0.46 mg/ml	Fungi (Mushroom (Pleurotus cornucopiae))	SHR	UF, EC, RP-HPLC	Cushman and Cheung (1971)	ND	6.07	ND 
+1293	RLSGQTIEVTSEYLFRH	17	2037.26	1.14 mg/ml	Fungi (Mushroom (Pholiota adiposa))	SHR	UF, EC, RP-HPLC	Cushman and Cheung (1971)	ND	6.76	ND 
+1296	GLDIQK	6	672.78	580 μM	Whey (Whole whey protein)	ND	RP-HPLC	ND	ND	5.84	ND 
+1297	VAGTWY	6	695.77	1682 μM	Whey (Whole whey protein)	ND	SEC, RPC	Cushman and Cheung (1971)	ND	5.49	ND 
+1299	DAQSAPLRVY	10	1119.24	12.2 μM	Whey (Whole whey protein)	SHR	RP-HPLC	Fuglsang et al.	ND	5.84	10 
+1301	KGYGGVSLPEW	11	1192.34	0.7 μM	Whey (Whole whey protein)	SHR	ND	Fuglsang et al.	ND	6.00	20 
+1302	DKVGINY	7	807.9	99.9 μM	Whey (Whole whey protein)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.83	ND 
+1303	DKVGINYW	8	994.11	25.4 μM	Whey (Whole whey protein)	SHR	ND	Fuglsang et al.	ND	5.83	15 
+1304	LAHKAL	6	651.81	621 μM	Whey (Whole whey protein)	ND	SEC, RPC	Cushman and Cheung (1971)	ND	8.76	ND 
+1311	LDAQSAPLR	9	970.09	635 μM	Whey protein (Beta Lactoglobulin)	ND	SDS-PAGE, RP-HPLC	Vermeirssen et al.	ND	5.84	ND 
+1312	SAPLRVY	7	804.94	8 μM	Whey protein (Beta Lactoglobulin)	ND	ND	Cushman and Cheung, Gomez-Ruiz et al.	ND	8.46	ND 
+1315	VLDTDYK	7	852.94	946 μM	Whey protein (Beta Lactoglobulin)	ND	SEC, MALDI-TOF, SDS-PAGE	ND	ND	4.21	ND 
+1319	CMENSA	6	653.72	788 μM	Whey protein (Beta Lactoglobulin)	ND	SDS-PAGE, RP-HPLC	Vermeirssen et al.	ND	4.00	ND 
+1322	ALPMHIR	7	837.05	43 μM	Whey protein (Beta Lactoglobulin)	ND	SEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.80	ND 
+1323	LKGYGGVSLPEW	12	1305.5	83 μM	Alpha-Lactoglobulin	ND	SEC, RP-HPLC, LC-MS/MS	Shalaby et al. (2006)	ND	6.00	ND 
+1324	YGGVSLPEW	9	1007.11	16 μM	Alpha-Lactoglobulin	ND	SEC, RP-HPLC, LC-MS/MS	Shalaby et al. (2006)	ND	4.00	ND 
+1325	GVSLPEW	7	786.88	30 μM	Alpha-Lactoglobulin	ND	SEC, RP-HPLC, LC-MS/MS	Shalaby et al. (2006)	ND	4.00	ND 
+1326	VSLPEW	6	729.83	57 μM	Alpha-Lactoglobulin	ND	SEC, RP-HPLC, LC-MS/MS	Shalaby et al. (2006)	ND	4.00	ND 
+1331	VGINYWLAHKHK	12	1465.72	327 μM	Alpha-Lactoglobulin	ND	SDS-PAGE, RP-HPLC	Vermeirssen et al.	ND	9.70	ND 
+1333	ALKAWSVAR	9	1001.2	3 μM	Bovine Serum Albumin	ND	ND	ND	ND	11.00	ND 
+1335	MAIPPKK	7	784.03	92 μg/ml	Casein (Caseinomacropeptide)	SHR	RP-HPLC-MS/MS	ND	ND	10.00	40 
+1336	RRWQWR	6	987.13	ND 	Lactoferrin	SHR	RP-HPLC	Wu J et al., 2002	ND	12.30	17 (approx)
+1339	VPSERYL	7	862.98	249.5 μM	Cheese (Manchego)	ND	HPLC	Cushman and Cheung (1971)	ND	5.97	ND 
+1341	KVLPVP	6	651.85	5 μM	ND	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	32.2 
+1342	KVLPVPQ	7	779.98	>1000 μM	ND	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	24.1 
+1343	YKVPQL	6	746.9	22 μM	Casein	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.59	12.5 
+1346	YAEERYPIL	9	1153.3	4.7 μM	Egg (Ovalbumin)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	4.53	31 
+1347	FFVAPFPEVFGK	12	1384.64	ND 	Beta-CN	ND	ND	ND	ND	6.00	ND 
+1656	FFVAPFPEVFGK	12	1384.64	77 μM	Casein	SHR	Enzymatic Hydrolysis of milk proteins	ND	ND	6.00	13 
+1657	AVPYPQR	7	829.95	15 μM	Casein	SHR	Enzymatic Hydrolysis of milk proteins	ND	ND	8.79	10 
+1658	TTMPLW	6	747.91	16 μM	Casein	SHR	Enzymatic Hydrolysis of milk proteins	ND	ND	5.19	13.6 
+1662	VYPFPG	6	678.79	221 μM	Casein	SHR	Enzymatic Hydrolysis of milk proteins	ND	ND	5.49	22 
+1665	YKVPQL	6	746.9	22 μM	Casein	SHR	Enzymatic Hydrolysis of milk proteins	ND	ND	8.59	12.5 
+1704	RPKHPIKHQ	9	1140.36	13.4 μM	Cheese (Gouda)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	11.17	9.3 
+1705	KKYMVPQL	8	1006.27	77.1 μM	Cheese (Manchego)	SHR	Electrospray-ionisation-tandem mass spectrometry	ND	ND	9.70	11.5 
+1707	LVYPFPGPIPN	11	1213.44	27.9 μM	Milk (Kefir from caprine milk)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.52	28.0 
+1708	LVYPFPGPIPNSLPQNIPP	19	2060.42	5.2 μM	Fermentation with E. faecalis	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.52	15.0 
+1709	YPFPGPIPN	9	1001.15	14.8 μM	Cheese (Gouda)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.52	7.0 
+1712	LHLPLP	6	688.87	5.5 μM	Fermentation with E. faecalis	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	6.74	21.9 
+1713	LHLPLPL	7	802.03	425 μM	Fermentation with E. faecalis	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	6.74	7.7 
+1714	VLGPVRGPFP	10	1038.26	137 μM	Fermentation with E. faecalis	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	9.72	16.2 
+1715	VRGPFPIIV	9	997.25	599 μM	Fermentation with E. faecalis	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	9.72	16.1 
+1716	FFVAPFPGVFGK	12	1312.58	77 μM	Enzymatic-hydrolysis (Hydrolysis with trypsin)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	34.0 
+1718	YKVPQL	6	746.9	22 μM	Enzymatic-hydrolysis (Hydrolysis with a proteinase from L. helveticus CP790)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.59	13.0 
+1719	AYFYPEL	7	902.01	6.6 μM	Enzymatic-hydrolysis (Hydrolysis with pepsin)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	4.00	21 
+1720	YQKFPQY	7	973.1	20.1 μM	Enzymatic-hydrolysis (Hydrolysis with pepsin)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.50	15 
+1721	TTMPLW	6	747.91	16 μM	Enzymatic-hydrolysis (Hydrolysis with pepsin)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.19	13.6 
+1722	AMPKPW	6	728.91	580 μM	Enzymatic-hydrolysis (Hydrolysis with a proteinase from L. helveticus CP790)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.80	4.6 
+1723	MKPWIQPK	8	1027.29	300 μM	Enzymatic-hydrolysis (Hydrolysis with a proteinase from L. helveticus CP790)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	10.00	2.9 
+1725	PYVRYL	6	809.96	1.9 μM	Enzymatic-hydrolysis (Hydrolysis with pepsin)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	9.00	23.4 
+1727	VYPFPG	6	678.79	221 μM	Enzymatic-hydrolysis (Hydrolysis with proteinase K)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.49	22.0 
+1728	TPVVVPPFLQP	11	1193.45	749 μM	Enzymatic-hydrolysis (Hydrolysis with proteinase K)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.19	8.0 
+1730	KVLPVP	6	651.85	5 μM	Enzymatic-hydrolysis (Hydrolysis with a proteinase from L. helveticus CP790)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	32.2 
+1731	KVLPVPQ	7	779.98	1000 μM	Enzymatic-hydrolysis (Hydrolysis with a proteinase from L. helveticus CP790)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	31.5 
+1732	AVPYPQR	7	829.95	15 μM	Enzymatic-hydrolysis (Hydrolysis with trypsin)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.79	10.0 
+1734	YAKPVA	6	647.77	14.3 μM	Enzymatic-hydrolysis (Hydrolysis with digestive enzymes)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.59	23.1 
+1735	WQVLPNAVPAK	11	1222.45	10.1 μM	Enzymatic-hydrolysis (Hydrolysis with digestive enzymes)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	18.4 
+1736	HPHPHLSF	8	971.09	28.9 μM	Enzymatic-hydrolysis (Hydrolysis with digestive enzymes)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	7.02	15.7 
+1737	MAIPPKK	7	784.03	4785 μM	Enzymatic-hydrolysis (Hydrolysis with trypsin (casein macropeptide))	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	10.00	28 
+1744	YAEERYPIL	9	1153.3	ND 	ND	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	4.53	ND 
+1745	FRADHPFL	8	1002.14	ND 	ND	ND	ND	ND	ND	6.74	ND 
+1746	RADHPFL	7	854.96	ND 	ND	ND	ND	ND	ND	6.74	ND 
+1748	LHLPLP	6	688.87	5 μM	Fermented milk with Enterococcus faecalis	SHR	RP-HPLC and IPC, MALDI-TOF	Cushman and Cheung (1971)	ND	6.74	21.87 
+1749	LVYPFPGPIPNSLPQNIPP	19	2060.42	5 μM	Fermented milk with Enterococcus faecalis	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	5.52	21.87 
+1751	YAEERYPIL	9	1153.3	ND 	Egg	ND	ND	ND	ND	4.53	ND 
+1752	RADHPFL	7	854.96	ND 	Egg	ND	ND	ND	ND	6.74	ND 
+1754	DFHINQ	6	772.82	ND 	Synthetic peptide	ND	ND	ND	ND	5.08	ND 
+1756	GLSDGEWQ	8	890.9	ND 	Synthetic peptide	ND	ND	ND	ND	3.67	ND 
+1758	AYFYPEL	7	902.01	6.58 μM	Casein	SHR	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	4.00	20 
+1759	YQKFPQY	7	973.1	20.08 μM	Casein	SHR	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	8.50	20 
+1760	LHLPLP	6	688.87	ND 	Casein	ND	ND	ND	ND	6.74	ND 
+1761	KVLPVP	6	651.85	ND 	Casein	ND	ND	ND	ND	8.75	ND 
+1762	KVLPVPQ	7	779.98	ND 	Casein	ND	ND	ND	ND	8.75	ND 
+1763	YKVPQL	6	746.9	ND 	Casein	ND	ND	ND	ND	8.59	ND 
+1764	DAYPSGAW	8	865.9	98 μM	Casein	ND	SEC, RP-HPLC	Cushman and Cheung (1971)	ND	3.80	ND 
+1765	ENLLRF	6	790.92	82.4 μM	Casein	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	6.10	ND 
+1767	VQVTSTAV	8	803.91	ND 	Casein	ND	ND	ND	ND	5.49	ND 
+1768	VTSTAV	6	576.65	52 μM	Casein	ND	UF, RP-HPLC, HPLC-MS/MS	ND	ND	5.49	ND 
+1769	FPQYLQY	7	958.08	14 μM	Casein	ND	IEC, HIC	Cushman and Cheung (1971)	ND	5.52	ND 
+1770	VAPFPEVF	8	905.06	362.5 ± 23.56 μM	Casein	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	4.00	ND 
+1771	FVAPFPEV	8	905.06	475.89 ± 41.73 μM	Casein	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	4.00	ND 
+1772	HLPLPLL	7	802.03	34.2 ± 2.22 μM	Casein	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	6.74	ND 
+1773	NLHLPLPLL	9	1029.29	15 μM	Casein	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	6.74	ND 
+1775	PFTESQS	7	794.82	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+1776	DIKQME	6	762.88	ND 	Casein	ND	ND	ND	ND	4.37	ND 
+1779	LNVPGE	6	627.7	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+1783	YTDAPSF	7	799.84	ND 	Casein	ND	ND	ND	ND	3.80	ND 
+1784	YYVPLGTQ	8	940.06	ND 	Casein	ND	ND	ND	ND	5.52	ND 
+1786	AVESTVATL	9	890	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+1787	FPPQSVL	7	786.93	ND 	Casein	ND	ND	ND	ND	5.52	ND 
+1788	FRQFYQL	7	1001.15	ND 	Casein	ND	ND	ND	ND	8.75	ND 
+1789	YFYPEL	6	830.94	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+1790	ARHPHPHLSF	10	1198.35	ND 	Casein	ND	ND	ND	ND	9.81	ND 
+1791	QSWMHQPHQPLPPTVM	16	1914.23	ND 	Casein	ND	ND	ND	ND	6.92	ND 
+1792	FSDKIAKYIPIQ	12	1422.69	ND 	Casein	ND	ND	ND	ND	8.50	ND 
+1794	VAPFPEVFGKE	11	1219.4	ND 	Casein	ND	ND	ND	ND	4.53	ND 
+1795	GPVRGPF	7	728.85	ND 	Casein	ND	ND	ND	ND	9.75	ND 
+1796	INNQFLP	7	844.97	ND 	Casein	ND	ND	ND	ND	5.52	ND 
+1797	INNQFLPYPYYAKPAAVR	18	2125.46	ND 	Casein	ND	ND	ND	ND	9.53	ND 
+1798	FVAPFPEVFGKEKVNE	16	1837.11	ND 	Casein	ND	ND	ND	ND	4.79	ND 
+1799	VYPFPGPIHNSLPQNIPPLTQT	22	2430.79	ND 	Casein	ND	ND	ND	ND	6.71	ND 
+1800	GPVRGPFPIIV	11	1151.42	ND 	Casein	ND	ND	ND	ND	9.75	ND 
+1801	PVRGPFPIIV	10	1094.37	ND 	Casein	ND	ND	ND	ND	10.18	ND 
+1802	PVVVPPFLQ	9	995.23	ND 	Casein	ND	ND	ND	ND	5.96	ND 
+1803	VYPFPGPIPNSL	12	1300.52	ND 	Casein	ND	ND	ND	ND	5.49	ND 
+1804	YIPIQYVL	8	1008.23	ND 	Casein	ND	ND	ND	ND	5.52	ND 
+1806	GPFPIIV	7	741.93	ND 	Casein	ND	ND	ND	ND	5.52	ND 
+1807	LAYFYPEL	8	1015.17	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+1822	RLPSEFDLSAFLRA	14	1621.86	52 μM	Fungi (Mushroom (Pleurotus cornucopiae))	SHR	UF, SEC, strong cation-exchange solid-phase extrac	Cushman and Cheung (1971)	ND	6.07	50 (approx)
+1823	RLSGQTIEVTSEYLFRH	17	2036.27	1079 μM	Fungi (Mushroom (Pleurotus cornucopiae))	SHR	UF, SEC, strong cation-exchange solid-phase extrac	Cushman and Cheung (1971)	ND	6.76	50 (approx)
+1825	VTPALR	6	655.8	82.4 μM	Legume (Mung Bean)	ND	UF, RPC	Li G-H et al. 2005	ND	9.72	ND 
+1826	KLPAGTLF	8	846.04	13.4 μM	Legume (Mung Bean)	ND	UF, RPC	Li G-H et al. 2005	ND	8.75	ND 
+1843	NWGPLV	6	684.79	21 μM	Soybean protein isolate	SHR	GFC, RP-HPLC	Kohmura & other (1989)	ND	5.52	50 (approx)
+1844	YLAGNQ	6	664.72	14 μM	Soybean	SHR	IEC, GFC	Cushman and Cheung (1971)	ND	5.52	15 (approx)
+1847	VMDKPQG	7	773.9	39 μM	Soybean	SHR	IEC, GFC	Cushman and Cheung (1971)	ND	5.81	15 (approx)
+1907	LIPPGVPY	8	855.04	17.5 μM	Wine	ND	RP-HPLC, SEC	ND	ND	5.52	ND 
+1908	YYAPFDGIL	9	1058.2	83 μM	Wine	ND	RP-HPLC, SEC	ND	ND	3.80	ND 
+1911	WVPSVY	6	749.86	25.7 μM	Wine	ND	RP-HPLC, SEC	ND	ND	5.52	ND 
+1924	LRIPVA	6	667.85	0.38 μM	Spinach	SHR	RPC, CC	Cushman and Cheung (1971)	ND	9.75	5 (approx)
+1925	IRYLPRG	7	874.05	4.2 μM	Spinach	SHR	RPC, CC	Cushman and Cheung (1971)	ND	10.84	5 (approx)
+1929	FVNPQAGS	8	818.88	ND 	Sunflower	ND	GFC, RP-HPLC	Hayakari et al. (1978)	ND	5.52	ND 
+1936	VPPIPP	6	618.77	34.71 %	Synthetic	SHR	CC, RP-HPLC	Nakamura et al. (1995), Wu and Ding et al	ND	5.49	34 
+1937	IPPVPP	6	618.77	13.17 %	Synthetic	SHR	CC, RP-HPLC	Nakamura et al. (1995), Wu and Ding et al	ND	5.52	35 
+1939	LHLPLP	6	688.87	ND 	Milk fermented with Enterococcus faecalis	SHR	RP-HPLC-MS/MS	ND	ND	6.74	21.87 
+1942	YPFPGPIPNSL	11	1201.39	ND 	Bovine milk protein	ND	ND	ND	ND	5.52	ND 
+1956	FKGRYYP	7	930.07	0.55 μM	Chicken muscle	ND	ND	ND	ND	9.70	ND 
+1958	KVLPVPQ	7	779.98	>1000 μM	Casein hydrolysate	ND	ND	ND	ND	8.75	ND 
+1959	KVLPVP	6	651.85	5 μM	Casein hydrolysate	ND	ND	ND	ND	8.75	ND 
+1964	ESIIAF	6	678.78	ND 	Egg proteins	ND	ND	ND	ND	4.00	ND 
+1965	YRGGLEPINF	10	1165.31	ND 	Egg proteins	ND	ND	ND	ND	6.00	ND 
+1966	YAEERYPIL	9	1153.3	ND 	Egg proteins	ND	ND	ND	ND	4.53	ND 
+1967	KVREGGY	7	807.9	ND 	Egg proteins	ND	ND	ND	ND	8.59	ND 
+1974	FFGVRCVSP	9	1011.21	0.4 μM	Egg proteins	SHR	LC-MS/MS	Cushman and Cheung (1971), Majumder & Wu (2009)	ND	8.25	ND 
+1975	ERKIKVYL	8	1048.29	1.2 μM	Egg proteins	SHR	LC-MS/MS	Cushman and Cheung (1971), Majumder & Wu (2009)	ND	9.70	ND 
+1977	FRAHPFL	7	887.05	3.2 μM	Egg proteins	SHR	LC-MS/MS	Cushman and Cheung (1971), Majumder & Wu (2009)	ND	9.76	ND 
+1978	KVREEY	6	822.92	9.1 μM	Egg proteins	SHR	LC-MS/MS	Cushman and Cheung (1971), Majumder & Wu (2009)	ND	6.14	ND 
+2010	FFVAPFEVFGK	11	1287.52	77 μM	Casein hydrolysate	SHR	ND	ND	ND	6.00	34 
+2035	ERKIKVYL	8	1048.29	1.2 μM	Egg proteins	SHR	RP-HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	9.70	0 
+2036	FFGRCVSP	8	912.07	0.4 μM	Egg proteins	SHR	RP-HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	8.25	0 
+2092	GGRPTY	6	649.7	<10 μM	Milk derived	ND	ND	ND	ND	8.75	ND 
+2165	VKHWPW	6	852.01	<10 μM	Meat protein	ND	ND	ND	ND	8.73	ND 
+2296	MIFPGAGGPEL	11	1088.29	0.03 μM	ND	ND	ND	ND	ND	4.00	ND 
+2298	LRIPVA	6	667.85	0.38 μM	ND	ND	ND	ND	ND	9.75	ND 
+2299	PTHIAW	6	723.83	0.39 μM	ND	ND	ND	ND	ND	7.17	ND 
+2300	GHKIATFQQR	10	1185.35	0.4 μM	ND	ND	ND	ND	ND	11.00	ND 
+2301	GHKIATFQER	10	1186.34	0.4 μM	ND	ND	ND	ND	ND	8.75	ND 
+2303	GGVIPN	6	555.63	0.74 μM	ND	ND	ND	ND	ND	5.52	ND 
+2304	GAAELPCSADWW	12	1305.43	0.95 μM	ND	ND	ND	ND	ND	3.67	ND 
+2305	ERKIKVYL	8	1048.29	1.2 μM	ND	ND	ND	ND	ND	9.70	ND 
+2309	PTHVAW	6	709.8	1.51 μM	ND	ND	ND	ND	ND	7.17	ND 
+2310	AFKAWAVAR	9	1019.21	1.7 μM	ND	ND	ND	ND	ND	11.00	ND 
+2311	PTHIKW	6	780.92	1.82 μM	ND	ND	ND	ND	ND	9.18	ND 
+2312	GKKVLQ	6	671.84	1.9 μM	ND	ND	ND	ND	ND	10.00	ND 
+2314	KKIATYQER	9	1136.32	2 μM	ND	ND	ND	ND	ND	9.70	ND 
+2316	FQKVVAK	7	819.01	2.1 μM	ND	ND	ND	ND	ND	10.00	ND 
+2318	FKGRYYP	7	930.07	2.33 μM	ND	ND	ND	ND	ND	9.70	ND 
+2319	IVGRPRHQG	9	1019.17	2.4 μM	ND	ND	ND	ND	ND	12.00	ND 
+2321	VADVYVGK	8	849.98	2.82 μM	ND	ND	ND	ND	ND	5.81	ND 
+2323	EVMAGNYLPG	10	1050.19	2.98 μM	ND	ND	ND	ND	ND	4.00	ND 
+2324	ALKAWSVAR	9	1001.2	3 μM	ND	ND	ND	ND	ND	11.00	ND 
+2326	VAHINVWK	8	966.15	3.47 μM	ND	ND	ND	ND	ND	8.73	ND 
+2327	ISHIYVWK	8	1045.25	3.77 μM	ND	ND	ND	ND	ND	8.60	ND 
+2328	GVGAGY	6	522.56	4.07 μM	ND	ND	ND	ND	ND	5.52	ND 
+2329	IAYKPAG	7	718.85	4.17 μM	ND	ND	ND	ND	ND	8.59	ND 
+2331	FALPQY	6	737.85	4.3 μM	ND	ND	ND	ND	ND	5.52	ND 
+2332	FALPQY	6	737.85	4.3 μM	ND	ND	ND	ND	ND	5.52	ND 
+2333	FALPQYLK	8	979.19	4.3 μM	ND	ND	ND	ND	ND	8.59	ND 
+2338	YAEERYPIL	9	1153.3	4.7 μM	ND	ND	ND	ND	ND	4.53	ND 
+2339	KVLPVP	6	651.85	5 μM	ND	ND	ND	ND	ND	8.75	ND 
+2340	APGAGVY	7	633.7	5.1 μM	ND	ND	ND	ND	ND	5.57	ND 
+2341	LVYPFPGPIPNSLPQNIPP	19	2060.42	5.3 μM	ND	ND	ND	ND	ND	5.52	ND 
+2342	VVYPWTQRF	9	1195.39	5.5 μM	ND	ND	ND	ND	ND	8.72	ND 
+2343	FQKVVA	6	690.84	5.8 μM	ND	ND	ND	ND	ND	8.75	ND 
+2345	FGRCVSP	7	764.9	6.2 μM	ND	ND	ND	ND	ND	8.25	ND 
+2348	AYFYPEL	7	902.01	6.58 μM	ND	ND	ND	ND	ND	4.00	ND 
+2349	VAHINVGK	8	836.99	6.76 μM	ND	ND	ND	ND	ND	8.73	ND 
+2350	GKMVKVVSWY	10	1196.47	6.76 μM	ND	ND	ND	ND	ND	9.70	ND 
+2351	FVNPEAGS	8	819.87	6.92 μM	ND	ND	ND	ND	ND	4.00	ND 
+2352	SAYPGQITSN	10	1037.09	7.08 μM	ND	ND	ND	ND	ND	5.24	ND 
+2353	FQKVVAG	7	747.89	7.4 μM	ND	ND	ND	ND	ND	8.75	ND 
+2354	FQKVVAG	7	747.89	7.41 μM	ND	ND	ND	ND	ND	8.75	ND 
+2355	PTHIKWG	7	837.98	7.59 μM	ND	ND	ND	ND	ND	9.18	ND 
+2356	KVREGT	6	688.78	9.1 μM	ND	ND	ND	ND	ND	8.75	ND 
+2357	LSSSEESTRINKKIEKFQSEEQQQYEDELQDKIHPFAQTQSLVYPFPGPI	81	9176.36	9.5 μM	ND	ND	ND	ND	ND	4.75	ND 
+2358	FRVPTPN	7	829.95	9.55 μM	ND	ND	ND	ND	ND	9.75	ND 
+2362	YIPIQY	6	795.93	10 μM	ND	ND	ND	ND	ND	5.52	ND 
+2363	LKVGVKQY	8	934.15	11 μM	ND	ND	ND	ND	ND	9.70	ND 
+2365	PTHIDW	6	767.84	12.88 μM	ND	ND	ND	ND	ND	5.08	ND 
+2366	RPKHPIKHQ	9	1140.36	13 μM	ND	ND	ND	ND	ND	11.17	ND 
+2367	AVNPIR	6	668.79	13 μM	ND	ND	ND	ND	ND	9.79	ND 
+2368	YLAGNQ	6	664.72	14 μM	ND	ND	ND	ND	ND	5.52	ND 
+2369	FQKPKR	6	802.97	14 μM	ND	ND	ND	ND	ND	11.17	ND 
+2370	FPQYLQY	7	958.08	14 μM	ND	ND	ND	ND	ND	5.52	ND 
+2371	FGASTRGA	8	765.82	14.7 μM	ND	ND	ND	ND	ND	9.75	ND 
+2372	NIFYCP	6	755.89	15 μM	ND	ND	ND	ND	ND	5.52	ND 
+2373	YPFPGPIPN	9	1001.15	15 μM	ND	ND	ND	ND	ND	5.52	ND 
+2374	YLYEIAR	7	927.07	16 μM	ND	ND	ND	ND	ND	6.00	ND 
+2375	LIPPGVPY	8	855.04	17.38 μM	ND	ND	ND	ND	ND	5.52	ND 
+2377	PANLPWGSSNV	11	1141.25	18 μM	ND	ND	ND	ND	ND	5.96	ND 
+2380	YQKFPQY	7	973.1	20.08 μM	ND	ND	ND	ND	ND	8.50	ND 
+2382	NWGPLV	6	684.79	21 μM	ND	ND	ND	ND	ND	5.52	ND 
+2383	WSVPQPK	7	840.98	21 μM	ND	ND	ND	ND	ND	8.75	ND 
+2384	YKVPQL	6	746.9	22 μM	ND	ND	ND	ND	ND	8.59	ND 
+2385	YKVPQL	6	746.9	22 μM	ND	ND	ND	ND	ND	8.59	ND 
+2386	CWLPVY	6	779.95	22.2 μM	ND	ND	ND	ND	ND	5.52	ND 
+2387	TTMPLW	6	747.91	22.2 μM	ND	ND	ND	ND	ND	5.19	ND 
+2388	MIFPGGPQL	9	959.17	22.3 μM	ND	ND	ND	ND	ND	5.28	ND 
+2389	YALPHA	6	670.77	22.87 μM	ND	ND	ND	ND	ND	6.74	ND 
+2390	QVSLNSGYY	9	1030.1	22.91 μM	ND	ND	ND	ND	ND	5.52	ND 
+2392	YPLDLF	6	766.89	24.4 μM	ND	ND	ND	ND	ND	3.80	ND 
+2393	YYPQIMQY	8	1105.27	24.55 μM	ND	ND	ND	ND	ND	5.52	ND 
+2394	WVPSVY	6	749.86	25.7 μM	ND	ND	ND	ND	ND	5.52	ND 
+2396	PGTAVFK	7	718.85	26.5 μM	ND	ND	ND	ND	ND	9.18	ND 
+2397	VKKVLGNP	8	854.06	28.5 μM	ND	ND	ND	ND	ND	10.00	ND 
+2399	KVLAGM	6	617.8	30 μM	ND	ND	ND	ND	ND	8.75	ND 
+2401	VGLPIF	6	644.81	30.9 μM	ND	ND	ND	ND	ND	5.49	ND 
+2403	PANIKWGD	8	900	31.16 μM	ND	ND	ND	ND	ND	6.26	ND 
+2405	RMLGQTPTK	9	1031.24	34 μM	ND	ND	ND	ND	ND	11.00	ND 
+2406	RMLGQTPWK	9	1116.35	34 μM	ND	ND	ND	ND	ND	11.00	ND 
+2407	HLPLPLL	7	802.03	34.4 μM	ND	ND	ND	ND	ND	6.74	ND 
+2408	AYIASKGL	8	821.97	34.67 μM	ND	ND	ND	ND	ND	8.63	ND 
+2410	GPAGAPGAA	9	667.72	37.15 μM	ND	ND	ND	ND	ND	5.52	ND 
+2411	PTHIKWN	7	895.03	38.02 μM	ND	ND	ND	ND	ND	9.18	ND 
+2412	VMDKPQG	7	773.9	38.9 μM	ND	ND	ND	ND	ND	5.81	ND 
+2413	SLVLPVPE	8	853.03	39 μM	ND	ND	ND	ND	ND	4.00	ND 
+2414	RPKHPI	6	746.91	40.74 μM	ND	ND	ND	ND	ND	11.00	ND 
+2415	NNVMLQW	7	904.05	40.74 μM	ND	ND	ND	ND	ND	5.52	ND 
+2416	IKPLDY	6	747.89	42.66 μM	ND	ND	ND	ND	ND	5.83	ND 
+2417	ALPMHIR	7	837.05	43 μM	ND	ND	ND	ND	ND	9.80	ND 
+2418	IKPLNY	6	746.9	43 μM	ND	ND	ND	ND	ND	8.59	ND 
+2419	KYPVQPFTESQSLTL	15	1737.97	44 μM	ND	ND	ND	ND	ND	6.00	ND 
+2421	PAVVLP	6	594.75	45 μM	ND	ND	ND	ND	ND	5.96	ND 
+2424	VTSTAV	6	576.65	52 μM	ND	ND	ND	ND	ND	5.49	ND 
+2425	HQAAGW	6	668.71	60 μM	ND	ND	ND	ND	ND	6.74	ND 
+2426	NMAINPSK	8	874.02	60 μM	ND	ND	ND	ND	ND	8.75	ND 
+2427	SPPPFYL	7	819.96	63.1 μM	ND	ND	ND	ND	ND	5.24	ND 
+2428	GKEIIVKAQR	10	1141.38	66.07 μM	ND	ND	ND	ND	ND	9.99	ND 
+2430	IELPLG	6	640.78	72.44 μM	ND	ND	ND	ND	ND	4.00	ND 
+2434	DRVYIHPFHL	10	1296.49	75.86 μM	ND	ND	ND	ND	ND	6.92	ND 
+2437	AVPYPQP	7	770.88	80 μM	ND	ND	ND	ND	ND	5.57	ND 
+2440	MPFPKYPVEP	10	1204.45	83 μM	ND	ND	ND	ND	ND	5.75	ND 
+2441	YYAPFDGIL	9	1058.2	83.18 μM	ND	ND	ND	ND	ND	3.80	ND 
+2442	YLYEIARR	8	1083.26	86 μM	ND	ND	ND	ND	ND	8.59	ND 
+2443	FPEVFGK	7	822.96	90.6 μM	ND	ND	ND	ND	ND	6.00	ND 
+2444	DAYPSGAW	8	865.9	98 μM	ND	ND	ND	ND	ND	3.80	ND 
+2445	KVREGTTY	8	953.06	102.8 μM	ND	ND	ND	ND	ND	8.59	ND 
+2446	AYFTPE	6	726.78	104.71 μM	ND	ND	ND	ND	ND	4.00	ND 
+2447	PPPVHL	6	658.8	109.65 μM	ND	ND	ND	ND	ND	7.17	ND 
+2448	PQTLALP	7	738.88	110 μM	ND	ND	ND	ND	ND	5.96	ND 
+2451	AYFYPE	6	788.85	116 μM	ND	ND	ND	ND	ND	4.00	ND 
+2452	WSKVVL	6	730.91	154.88 μM	ND	ND	ND	ND	ND	8.75	ND 
+2455	RPQIPP	6	706.84	166 μM	ND	ND	ND	ND	ND	9.75	ND 
+2456	PVRAVP	6	637.78	170 μM	ND	ND	ND	ND	ND	10.18	ND 
+2457	VIEKYP	6	747.89	173 μM	ND	ND	ND	ND	ND	5.97	ND 
+2458	NIPPLTQTPV	10	1079.26	173 μM	ND	ND	ND	ND	ND	5.52	ND 
+2459	YIPIQYVLSR	10	1251.49	174.5 μM	ND	ND	ND	ND	ND	8.59	ND 
+2461	PQNILP	6	680.8	177.33 μM	ND	ND	ND	ND	ND	5.96	ND 
+2463	LVYPFPGP	8	889.06	181.97 μM	ND	ND	ND	ND	ND	5.52	ND 
+2464	RDMPIQAF	8	977.15	197.46 μM	ND	ND	ND	ND	ND	5.84	ND 
+2465	VHLPPP	6	658.8	200 μM	ND	ND	ND	ND	ND	6.71	ND 
+2467	ALNEINQFY	9	1111.22	219 μM	ND	ND	ND	ND	ND	4.00	ND 
+2468	VYPFPG	6	678.79	221 μM	ND	ND	ND	ND	ND	5.49	ND 
+2471	ALNEINQFYQK	11	1367.52	264 μM	ND	ND	ND	ND	ND	6.05	ND 
+2472	YQEPVL	6	747.85	280 μM	ND	ND	ND	ND	ND	4.00	ND 
+2473	YQQPVL	6	746.86	280 μM	ND	ND	ND	ND	ND	5.52	ND 
+2475	TVDQHQ	6	726.74	288.4 μM	ND	ND	ND	ND	ND	5.05	ND 
+2476	YPFPGPI	7	789.93	299.25 μM	ND	ND	ND	ND	ND	5.52	ND 
+2477	LNVPGEIVE	9	969.1	300 μM	ND	ND	ND	ND	ND	3.79	ND 
+2478	YQQPVLGPVR	10	1156.35	300 μM	ND	ND	ND	ND	ND	8.75	ND 
+2479	YQEPVLQPVR	10	1228.41	300 μM	ND	ND	ND	ND	ND	6.00	ND 
+2480	IVGRPR	6	696.85	302 μM	ND	ND	ND	ND	ND	12.00	ND 
+2481	PSGQYY	6	713.74	344.1 μM	ND	ND	ND	ND	ND	5.95	ND 
+2483	VAPFPEVF	8	905.06	362.5 μM	ND	ND	ND	ND	ND	4.00	ND 
+2484	TDQHQDKIYP	10	1244.33	380 μM	ND	ND	ND	ND	ND	5.18	ND 
+2486	VRGPFPIIV	9	997.25	395 μM	ND	ND	ND	ND	ND	9.72	ND 
+2490	DKIHPF	6	755.87	419.91 μM	ND	ND	ND	ND	ND	6.74	ND 
+2492	VLPYPV	6	686.85	420 μM	ND	ND	ND	ND	ND	5.49	ND 
+2493	LHLPLPL	7	802.03	425 μM	ND	ND	ND	ND	ND	6.74	ND 
+2495	LHLPLPL	7	802.03	432.7 μM	ND	ND	ND	ND	ND	6.74	ND 
+2496	EMPFPK	6	747.91	443.75 μM	ND	ND	ND	ND	ND	6.10	ND 
+2497	MKPWIQPK	8	1027.29	450 μM	ND	ND	ND	ND	ND	10.00	ND 
+2498	NIPPLTQTPVVVPPFIQ	17	1860.23	450 μM	ND	ND	ND	ND	ND	5.52	ND 
+2499	FVAPFPEV	8	905.06	475.89 μM	ND	ND	ND	ND	ND	4.00	ND 
+2500	YPFPGPIP	8	887.05	500 μM	ND	ND	ND	ND	ND	5.52	ND 
+2501	YLYEIA	6	770.88	500 μM	ND	ND	ND	ND	ND	4.00	ND 
+2503	RMLGQTP	7	801.96	501.19 μM	ND	ND	ND	ND	ND	9.75	ND 
+2504	YLYEIA	6	770.88	501.19 μM	ND	ND	ND	ND	ND	4.00	ND 
+2506	VRGPFP	6	671.8	505.28 μM	ND	ND	ND	ND	ND	9.72	ND 
+2508	KVLPVPQ	7	779.98	522.67 μM	ND	ND	ND	ND	ND	8.75	ND 
+2511	AMPKPW	6	728.91	580 μM	ND	ND	ND	ND	ND	8.80	ND 
+2514	LAHKAL	6	651.81	621 μM	ND	ND	ND	ND	ND	8.76	ND 
+2516	LDAQSAPLR	9	970.09	635 μM	ND	ND	ND	ND	ND	5.84	ND 
+2517	TPWVPPFLQP	10	1181.4	749 μM	ND	ND	ND	ND	ND	5.19	ND 
+2518	IGSENSEKTTMP	12	1293.41	773 μM	ND	ND	ND	ND	ND	4.53	ND 
+2519	CMENSA	6	653.72	788 μM	ND	ND	ND	ND	ND	4.00	ND 
+2521	PQEVLP	6	681.79	800 μM	ND	ND	ND	ND	ND	4.00	ND 
+2522	YSQQQQ	6	780.79	860 μM	ND	ND	ND	ND	ND	5.52	ND 
+2526	VLDTDYK	7	852.94	946 μM	ND	ND	ND	ND	ND	4.21	ND 
+2528	RELEEL	6	787.87	1000 μM	ND	ND	ND	ND	ND	4.25	ND 
+2529	VIGSPPQIN	9	924.06	1000 μM	ND	ND	ND	ND	ND	5.49	ND 
+2531	SSIQSQPQAFT	11	1193.28	1001 μM	ND	ND	ND	ND	ND	5.24	ND 
+2532	LLYQQPV	7	860.02	1001 μM	ND	ND	ND	ND	ND	5.52	ND 
+2534	VVVPPF	6	656.82	>1500 μM	ND	ND	ND	ND	ND	5.49	ND 
+2535	VAGTWY	6	695.77	1682 μM	ND	ND	ND	ND	ND	5.49	ND 
+2536	SVAKLE	6	645.75	2187.76 μM	ND	ND	ND	ND	ND	5.72	ND 
+2538	LKPTPEGN	8	854.96	2691.53 μM	ND	ND	ND	ND	ND	6.00	ND 
+2539	VLPIPQ	6	665.83	5300 μM	ND	ND	ND	ND	ND	5.49	ND 
+2540	FFGRCVSP	8	912.07	0.4 μM	ND	ND	ND	ND	ND	8.25	ND 
+2541	KGYGGVSLPEW	11	1192.34	0.7 μM	ND	ND	ND	ND	ND	6.00	ND 
+2542	VYNEGLPAP	9	959.07	3.1 μM	ND	ND	ND	ND	ND	4.00	ND 
+2543	FRADHPFL	8	1002.14	3.2 μM	ND	ND	ND	ND	ND	6.74	ND 
+2544	VTVNPYKWLP	10	1216.45	5.5 μM	ND	ND	ND	ND	ND	8.56	ND 
+2546	DAQSAPLRVY	10	1119.24	12.2 μM	ND	ND	ND	ND	ND	5.84	ND 
+2547	DKVGINYW	8	994.11	25.4 μM	ND	ND	ND	ND	ND	5.83	ND 
+2549	GPLGLLGFLGPLGLS	15	1410.72	90.03 μM	ND	ND	ND	ND	ND	5.52	ND 
+2550	PGPLGLTGP	9	807.94	95 μM	ND	ND	ND	ND	ND	5.96	ND 
+2551	DKVGINY	7	807.9	99.9 μM	ND	ND	ND	ND	ND	5.83	ND 
+2552	QLGFLGPR	8	887.05	148 μM	ND	ND	ND	ND	ND	9.75	ND 
+2553	MNVKHWPWMK	10	1356.67	228 μM	ND	ND	ND	ND	ND	10.00	ND 
+2555	KGYGGVSL	8	779.89	300.9 μM	ND	ND	ND	ND	ND	8.59	ND 
+2556	MYPGIA	6	650.79	641.02 μM	ND	ND	ND	ND	ND	5.27	ND 
+2558	TGPIPN	6	597.67	316 μM	Milk (Goat milk hydrolysate)	SHR	RP-LC, HPLC	Wu J et al., 2002	ND	5.19	ND 
+2572	VLAQYK	6	720.87	23.2 μg/ml	Beef rump	ND	RP-HPLC	Cushman and Cheung (1971), Maruyama and Suzuki	ND	8.56	ND 
+2575	LRIPVA	6	667.85	0.38 μM	Spinach Rubisco	SHR	HPLC	Cushman and Cheung (1971), Maruyama and Suzuki	ND	9.75	0 
+2576	IAYKPAG	7	718.85	4.2 μM	Spinach Rubisco	SHR	HPLC	Cushman and Cheung (1971), Maruyama and Suzuki	ND	8.59	15 
+2577	VYPFPG	6	678.79	221 μM	Cheese whey protein	SHR	RP-HPLC, GF	Yamamoto et al.	ND	5.49	22 
+2582	TPVVVPPFLQP	11	1193.45	749 μM	Cheese whey protein	SHR	RP-HPLC, GF	Yamamoto et al.	ND	5.19	8 
+2587	KRVIQY	6	805.98	6.1 μM	Porcine myosin B	SHR	RP-HPLC	Cushman and Cheung (1971), Katayama et al. 2004	ND	9.99	23 
+2589	EKERERQ	7	974.04	552.5 552.5	Porcine skeletal muscle troponin	ND	AEC, RP-HPLC, GF	Cushman and Cheung (1971)	ND	6.33	ND 
+2590	KRQKYDI	7	950.11	26.2 26.2	Porcine skeletal muscle troponin	SHR	AEC, RP-HPLC, GF	Cushman and Cheung (1971)	ND	9.70	9.9 
+2595	VKKVLGNP	8	854.06	28.5 μM	Pork loin	SHR	RP-HPLC	Katayama and others	ND	10.00	24 
+2600	FQKPKR	6	802.97	0.32-14 μM	Chicken muscle	SHR	HPLC, RP-HPLC, fractionation on octadecyl silica (	Cushman and Cheung (1971), Yamamoto and others	ND	11.17	ND 
+2601	FKGRYYP	7	930.07	0.32-14 μM	Chicken muscle	SHR	HPLC, RP-HPLC, fractionation on octadecyl silica (	Cushman and Cheung (1971), Yamamoto and others	ND	9.70	0 
+2602	IVGRPRHQG	9	1019.17	ND 	Chicken muscle	SHR	HPLC, RP-HPLC, fractionation on octadecyl silica (	Cushman and Cheung (1971), Yamamoto and others	ND	12.00	0 
+2603	FGRCVSP	7	764.9	0.4-15 μM	Egg (Ovalbumin)	ND	ND	ND	ND	8.25	ND 
+2604	ERKIKVYL	8	1048.29	ND 	Egg (Ovalbumin)	ND	ND	ND	ND	9.70	ND 
+2605	FFGRCVSP	8	912.07	ND 	Egg (Ovalbumin)	ND	ND	ND	ND	8.25	ND 
+2608	NIFYCP	6	755.89	ND 	Egg (Ovalbumin)	ND	ND	ND	ND	5.52	ND 
+2609	LRPVAA	6	625.77	4.14 μM	Bovine lactoferrin	SHR	RP-HPLC	NFRI, Tsukuba City, Japan	ND	9.75	14 (approx)
+2610	KVREGTTY	8	953.06	102.8 μM	Hen ovotransferrin	SHR	RP-HPLC	NFRI, Tsukuba City, Japan	ND	8.59	10 (approx)
+2612	AYFYPEL	7	902.01	6.58 μM	Miso paste with casein	SHR	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	4.00	21 (approx)
+2613	YQKFPQY	7	973.1	20.08 μM	Miso paste with casein	SHR	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	8.50	15 (approx)
+2614	PYVRYL	6	809.96	2.4 μM	Milk (Caprine Kefir)	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	9.00	ND 
+2615	LVYPFTGPIPN	11	1217.43	27.9 μM	Milk (Caprine Kefir)	ND	RP-HPLC-MS/MS	Cushman and Cheung (1971)	ND	5.52	ND 
+2616	LHLPLP	6	688.87	ND 	Milk	SHR	RP-HPLC and IPC, MALDI-TOF	Cushman and Cheung (1971)	ND	6.74	21.87 
+2620	YQKFPQY	7	973.1	ND 	Milk (Yak milk casein)	ND	UF, RP-HPLC	Vermeirssen et al.	ND	8.50	ND 
+2621	LPQNIPPL	8	891.08	ND 	Milk (Yak milk casein)	ND	UF, RP-HPLC	Vermeirssen et al.	ND	5.52	ND 
+2622	SKVLPVPQK	9	995.23	ND 	Milk (Yak milk casein)	ND	UF, RP-HPLC	Vermeirssen et al.	ND	10.00	ND 
+2623	LPYPYY	6	814.94	ND 	Milk (Yak milk casein)	ND	UF, RP-HPLC	Vermeirssen et al.	ND	5.52	ND 
+2624	FLPYPYY	7	962.11	ND 	Milk (Yak milk casein)	ND	UF, RP-HPLC	Vermeirssen et al.	ND	5.52	ND 
+2634	EKDERF	6	822.87	10.0-848.0 μM	Egg (Ovine milk)	ND	CE-ESI-IT-MS	Cushman and Cheung (1971)	ND	4.68	ND 
+2636	YIPIQY	6	795.93	10.0-848.0 μM	Egg (Ovine milk)	ND	CE-ESI-IT-MS	Cushman and Cheung (1971)	ND	5.52	ND 
+2638	LGFPTTKTYFPHF	13	1555.8	4.92 μM	Porcine hemoglobin	ND	MALDI-TOF/MS and ESI-MS/MS	RP-HPLC with Cushman and Cheung (1971)	ND	8.60	ND 
+2639	VVYPWT	6	763.89	6.02 μM	Porcine hemoglobin	ND	MALDI-TOF/MS and ESI-MS/MS	RP-HPLC with Cushman and Cheung (1971)	ND	5.49	ND 
+2640	GAVGPSG	7	543.58	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	5.52	ND 
+2641	AVKQPAVVYP	10	1071.28	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	8.63	ND 
+2642	AATENM	6	635.69	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	4.00	ND 
+2644	EGGPKP	6	583.64	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	6.10	ND 
+2645	ANSSIL	6	603.67	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	5.57	ND 
+2646	AITAKL	6	615.77	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	8.80	ND 
+2647	IGNTLI	6	629.75	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	5.52	ND 
+2648	NLAPFL	6	673.81	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	5.52	ND 
+2649	EIAKLM	6	703.9	ND 	Chicken leg bone	ND	LC/MS/MS	Bush et al.	ND	6.10	ND 
+2667	YLAGNQ	6	664.72	14 μM	Soybean	SHR	IEC, GF, HPLC	Cushman and Cheung (1971)	ND	5.52	ND 
+2670	VMDKPQG	7	773.9	39 μM	Soybean	SHR	IEC, GF, HPLC	Cushman and Cheung (1971)	ND	5.81	ND 
+2696	VTPALR	6	655.8	82.4 μM	Legume (Mung bean protein)	SHR	GPC, MALDI-TOF MS	Modified Lieberman’s method	ND	9.72	ND 
+2697	KLPAGTLF	8	846.04	13.4 μM	Legume (Mung bean protein)	SHR	GPC, MALDI-TOF MS	Modified Lieberman’s method	ND	8.75	ND 
+2704	WPEAAELMMEVDP	13	1517.73	21.6 μM	Fish (Tuna dark muscle)	SHR	IEC, RP-HPLC, 	Cushman and Cheung (1971), Yamamoto and others	ND	3.50	15 (approx)
+2705	GAAELPCSADWW	12	1305.43	0.95 μM	Bullfrog muscle (Rana catesbeiana Shaw)	SHR	ESI-MS	Cushman and Cheung (1971), Yamamoto and others	ND	3.67	10 
+2706	MEGAQEAQGD	10	1035.05	15.9 μM	Sea-cucumber (Acaudina molpadioidea)	SHR	ESI-MS/MS, GF, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	3.57	17 (approx)
+2707	GDLGKTTTVSNWSPPKYKDTP	21	2292.53	11.28 μM	Fish (Tuna)	SHR	IEC, HPLC, ESI-Q-TOF-MS	Cushman and Cheung (1971)	ND	8.43	ND 
+2719	PAGPVG	6	496.56	382->1000 μM	Pork meat	ND	LC-ESI-MS/MS	Sentandreu and Toldra (2006)	ND	5.96	ND 
+2726	MYPGIA	6	650.79	46.56>1000 μM	ND	ND	MALDI-TOF/TOF	ND	ND	5.27	ND 
+2737	MIFPGAGGPEL	11	1088.29	28.7 μg/ml	Fish (Yellowfin sole frame)	SHR	SEC, UF	Cushman and Cheung (1971)	ND	4.00	35 (approx)
+2738	EVMAGNLYPG	10	1050.19	19.34 μg/ml	Blue mussel (Mytilus edulis)	SHR	SEC, GF, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	19 
+2739	VVYPWTQRF	9	1195.39	66 μM/L	Oyster(Crassostrea talienwhanensis Crosse)	SHR	LC-MS (LCAPCI-QQQ-MS), GF, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	ND 
+2760	RPKHPIKHQ	9	1140.36	13.4 μM	Cheese (Gouda cheese)	SHR	FAB-MS, RP-HPLC	Abubakar et al.	ND	11.17	9.31 
+2761	RPKHPIKHQGLPQ	13	1535.82	ND 	Cheese (Gouda cheese)	SHR	FAB-MS, RP-HPLC	Abubakar et al.	ND	11.17	ND 
+2762	YPFPGPIPN	9	1001.15	14.8 μM	Cheese (Gouda cheese)	SHR	FAB-MS, RP-HPLC	Abubakar et al.	ND	5.52	7 
+2763	MPFPKYPVQPF	11	1350.64	ND 	Cheese (Gouda cheese)	SHR	FAB-MS, RP-HPLC	Abubakar et al.	ND	8.34	ND 
+2796	VWDPPKFD	8	1003.12	365 mg/ml	Fish (Salmon pectoral fin)	SHR	CEC, RPC, LC-MS/MS	Vermeirssen et al.	ND	4.21	ND 
+2797	FEDYVPLSCF	10	1219.37	365 mg/ml	Fish (Salmon pectoral fin)	SHR	CEC, RPC, LC-MS/MS	Vermeirssen et al.	ND	3.67	ND 
+2798	FNVPLYEFSY	10	1278.43	365 mg/ml	Fish (Salmon pectoral fin)	SHR	CEC, RPC, LC-MS/MS	Vermeirssen et al.	ND	4.00	ND 
+2801	MIFPGAGGPEL	11	1088.29	0.883 mg/ml	Fish (Yellowfin sole frame)	SHR	IEC, GP-HPLC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	22 
+2802	PGPLGLTGP	9	807.94	0.68 mg/ml	Fish (Skate skin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+2803	QLGFLGPR	8	887.05	0.68 mg/ml	Fish (Skate skin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	9.75	ND 
+2806	TGGGNA	6	475.46	85.00 %	Fish (Pacific cod skin gelatin)	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	5.19	ND 
+2807	PEAAELMMEVDP	12	1331.52	80.69 %	Fish (Bigeye tuna dark muscle)	SHR	IEC, RP-HPLC, 	Cushman and Cheung (1971), Yamamoto and others	ND	3.50	15 (approx)
+2808	VWDPPKFD	8	1003.12	365 μg/ml	Fish (Salmon pectoral fin)	SHR	CEC, RPC, LC-MS/MS	Vermeirssen et al.	ND	4.21	ND 
+2809	FEDYVPLSCF	10	1219.37	365 μg/ml	Fish (Salmon pectoral fin)	SHR	CEC, RPC, LC-MS/MS	Vermeirssen et al.	ND	3.67	ND 
+2810	FNVPLYE	7	881	365 μg/ml	Fish (Salmon pectoral fin)	SHR	CEC, RPC, LC-MS/MS	Vermeirssen et al.	ND	4.00	ND 
+2811	DDTGHDFEDTGEAM	14	1539.5	0.63 mg/ml	Marine rotifer body	ND	GF, RP-HPLC	Cushman and Cheung (1971)	ND	3.66	ND 
+2813	TFPHGP	6	654.72	86.00 %	Seaweed pipefish muscle	ND	FPLC, RP-HPLC	Cushman and Cheung (1971)	ND	6.40	ND 
+2814	HWTTQR	6	827.9	86.00 %	Seaweed pipefish muscle	ND	FPLC, RP-HPLC	Cushman and Cheung (1971)	ND	9.76	ND 
+2822	LLMLDNDLPP	10	1140.36	60.40 %	Fish (Pacific cod skin)	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	3.56	ND 
+2824	GDLGKTTTVSNWSPPKYKDTP	21	2292.53	90.00 %	Fish (Tuna frame)	SHR	UF, IEC, HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	8.43	20 (approx)
+2826	VVYPWTQRF	9	1195.39	9.5 μM/ml	Oyster mantle	SHR	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	ND 
+2831	MEGAQEAQGD	10	1035.05	0.615 mg/ml	Sea-cucumber flesh	SHR	GFC, IOC, RP-HPLC	Cushman and Cheung (1971)	ND	3.57	17 (approx)
+2832	VTVNPYKWLP	10	1216.45	ND 	Chicken muscle	ND	ND	ND	ND	8.56	ND 
+2833	VTVNPYKWLP	10	1216.45	5.5 μM	Synthesized	SHR	ND	ND	ND	8.56	ND 
+2837	PYKWLP	6	802.97	5.5 μM	Synthesized	ND	ND	ND	ND	9.01	ND 
+2866	GGVIPN	6	555.63	0.74 μM	Synthesized	ND	ND	ND	ND	5.52	ND 
+2867	PTHIKWGD	8	953.07	0.9 μM	Synthesized	ND	ND	ND	ND	7.17	ND 
+2872	DDTGHDFEDTGEAM	14	1539.5	ND 	Marine rotifer body	ND	GF, RP-HPLC	Cushman and Cheung (1971)	ND	3.66	ND 
+2873	MIFPGAGGPEL	11	1088.29	ND 	Fish (Yellowfin sole frame)	SHR	UF, HPLC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	35 (approx)
+2874	PGPLGLTGP	9	807.94	ND 	Fish (Skate skin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+2875	QLGFLGPR	8	887.05	ND 	Fish (Salmon pectoral fin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	9.75	ND 
+2876	VWDPPKFD	8	1003.12	ND 	Cuttlefish muscle	ND	GF, PR-HPLC	Cushman and Cheung (1971)	ND	4.21	ND 
+2880	VVYPWTQRF	9	1195.39	ND 	Oyster mantle	SHR	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	ND 
+2881	LLMLDNDLPP	10	1140.36	ND 	Pacific cod skin	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	3.56	ND 
+2885	FEDYVPLSCF	10	1219.37	ND 	Fish (Salmon pectoral fin)	ND	GF, PR-HPLC	Cushman and Cheung (1971)	ND	3.67	ND 
+2886	FNVPLYE	7	881	ND 	Fish (Salmon pectoral fin)	ND	GF, PR-HPLC	Cushman and Cheung (1971)	ND	4.00	ND 
+2895	FQKPKR	6	802.97	14 μM	Myosin	SHR	GFC	Cushman and Cheung (1971)	ND	11.17	ND 
+2896	FKGRYYP	7	930.07	0.55 μM	Creatine kinase	SHR	GFC	Cushman and Cheung (1971)	ND	9.70	0 
+2897	IVGRPRHQG	9	1019.17	2.4 μM	Actin	SHR	GFC	Cushman and Cheung (1971)	ND	12.00	0 
+2898	ERKIKVYL	8	1048.29	1.2 μM	Ovalbumin	SHR	GFC	Cushman and Cheung (1971)	ND	9.70	0 
+2903	LGFPTTKTYFPHF	13	1555.8	4.92 μM	Porcine	ND	MALDI-TOF/MS and ESI-MS/MS	RP-HPLC with Cushman and Cheung (1971)	ND	8.60	ND 
+2904	VVYPWT	6	763.89	6.02 μM	Porcine	ND	MALDI-TOF/MS and ESI-MS/MS	RP-HPLC with Cushman and Cheung (1971)	ND	5.49	ND 
+2905	VFEWAFAR	8	1025.17	12.68 μg/μl	Bovine	ND	ND	ND	ND	5.97	ND 
+2917	PEAAELMMEVDP	12	1331.52	80.69 %	Fish muscle proteins	SHR	IEC, RP-HPLC, 	Cushman and Cheung (1971), Yamamoto and others	ND	3.50	15 (approx)
+2918	TFPHGP	6	654.72	0.62 mg/ml	Fish muscle proteins	ND	FPLC AND RP-HPLC	Cushman and Cheung (1971)	ND	6.40	ND 
+2919	HWTTQR	6	827.9	1.44 mg/ml	Fish muscle proteins	ND	FPLC AND RP-HPLC	Cushman and Cheung (1971)	ND	9.76	ND 
+2923	VVYPWTQRF	9	1195.39	66 μM	Oyster	SHR	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	ND 
+2924	MEGAQEAQGD	10	1035.05	0.0165 mg/ml	Sea-cucumber	RHR	GF, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	3.57	17 (approx)
+2928	DDTGHDFEDTGEAM	14	1539.5	9.64 μM	Marine Rotifer	ND	GF, RP-HPLC	Cushman and Cheung (1971)	ND	3.66	ND 
+2929	MIFPGAGGPEL	11	1088.29	28.7 μg/ml	Fish bone	ND	RP-HPLC, SEC	Cushman and Cheung (1971)	ND	4.00	ND 
+2930	PGPLGLTGP	9	807.94	95 μM	Fish skin	ND	RP-HPLC, SEC	Cushman and Cheung (1971)	ND	5.96	ND 
+2931	QLGFLGPR	8	887.05	148 μM	Fish skin	ND	RP-HPLC, SEC	Cushman and Cheung (1971)	ND	9.75	ND 
+2933	TGGGNV	6	503.51	68.00 %	Fish skin	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	5.19	ND 
+2938	LLMLDNDLPP	10	1140.36	35.7 μM	Fish skin	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	3.56	ND 
+2939	VWDPPKFD	8	1003.12	9.10 μM	Fish (Salmon)	ND	GF, PR-HPLC	Cushman and Cheung (1971)	ND	4.21	ND 
+2940	FEDYVPLSCF	10	1219.37	10.77 μM	Fish (Salmon)	ND	GF, PR-HPLC	Cushman and Cheung (1971)	ND	3.67	ND 
+2941	FNVPLYE	7	881	7.72 μM	Fish (Salmon)	ND	GF, PR-HPLC	Cushman and Cheung (1971)	ND	4.00	ND 
+2948	FFVAPFPQVFGF	12	1402.66	ND 	Casein	ND	ND	ND	ND	5.52	ND 
+2951	AYFYPEL	7	902.01	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+2966	VECYGPNRPQF	11	1309.46	ND 	Algae	ND	ND	ND	ND	5.97	ND 
+2972	IPPVPP	6	618.77	13.17 %	Chemically synthesized	SHR	ND	Nakamura et al. (1995), Wu and Ding et al	ND	5.52	17.4 %
+2973	VPPIPP	6	618.77	34.71 %	Chemically synthesized	SHR	ND	Nakamura et al. (1995), Wu and Ding et al	ND	5.49	21 %
+2974	KVLPVPQ	7	779.98	ND 	Casein (Beta Casein)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	24.1 
+2976	DRVYIHPFHL	10	1296.49	ND 	Porcine skeletal muscle	ND	ND	ND	ND	6.92	ND 
+3300	LAHKAL	6	651.81	ND 	Bovine b-casein	ND	ND	ND	ND	8.76	ND 
+3342	VGINYWLAHK	10	1200.41	ND 	Bovine b-casein	ND	ND	ND	ND	8.57	ND 
+3371	TQSLVYP	7	806.91	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.18	ND 
+3372	QTQSLVYP	8	935.04	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3373	AQTQSLVYP	9	1006.12	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.57	ND 
+3374	FAQTQSLVYP	10	1153.3	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3375	HPFAQTQSLVYP	12	1387.56	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.74	ND 
+3376	IHPFAQTQSLVYP	13	1500.72	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.74	ND 
+3377	KIHPFAQTQSLVYP	14	1628.89	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	8.60	ND 
+3378	KYPVQPFTESQSLTL	15	1737.97	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.00	ND 
+3379	LPQNIPPLTQTPVVVPPFLQPEVMGVSK	28	3026.63	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.00	ND 
+3380	RDMPIQAF	8	977.15	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.84	ND 
+3381	LLYQQPVLGPVRGPFPIIV	19	2106.58	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	8.75	ND 
+3382	YQQPVLGPVR	10	1156.35	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	8.75	ND 
+3391	YPVQPFTE	8	980.09	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	4.00	ND 
+3392	QSLVYP	6	705.81	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3393	AVPYPQR	7	829.95	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	8.79	ND 
+3395	SKVLPVPE	8	868.04	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.72	ND 
+3397	TPVVVPPFLQP	11	1193.45	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.19	ND 
+3398	VYPFPG	6	678.79	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.49	ND 
+3400	YQQPVL	6	746.86	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3401	EMPFPK	6	747.91	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.10	ND 
+3406	KVLPVP	6	651.85	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	8.75	ND 
+3407	VYPFPGPI	8	889.06	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.49	ND 
+3408	DKIHPF	6	755.87	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.74	ND 
+3409	LNVPGEIVE	9	969.1	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	3.79	ND 
+3410	NIPPLTQTPV	10	1079.26	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3411	EMPFPK	6	747.91	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.10	ND 
+3417	VRGPFPIIV	9	997.25	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	9.72	ND 
+3430	YPFPGPI	7	789.93	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3431	LLYQQPV	7	860.02	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3452	YPFPGPIN	8	904.03	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3453	YPFPGPIP	8	887.05	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3454	LVYPFPGPIPNSLPQNIPP	19	2060.42	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3457	LHLPLP	6	688.87	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.74	ND 
+3458	NLHLPLP	7	802.97	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	6.74	ND 
+3459	ENLHLPLP	8	932.09	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.24	ND 
+3460	KVLPVPQ	7	779.98	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	8.75	ND 
+3461	YPFPGPI	7	789.93	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	5.52	ND 
+3462	YQEPVL	6	747.85	ND 	Bovine (Bos taurus) b-caseins	ND	ND	ND	ND	4.00	ND 
+3592	KYPVQPFTESQSLTL	15	1737.97	ND 	ND	ND	ND	ND	ND	6.00	ND 
+3602	LLYQQPVLGPVRGPFPIIV	19	2106.58	ND 	ND	ND	ND	ND	ND	8.75	ND 
+3604	AVPYPQR	7	829.95	ND 	ND	ND	ND	ND	ND	8.79	ND 
+3606	GINYWLAHK	9	1101.27	ND 	ND	ND	ND	ND	ND	8.60	ND 
+3609	EFVAPFPEVFGK	12	1366.58	ND 	ND	ND	ND	ND	ND	4.53	ND 
+3611	TTMPLW	6	747.91	ND 	ND	ND	ND	ND	ND	5.19	ND 
+3612	AVPYPQR	7	829.95	ND 	ND	ND	ND	ND	ND	8.79	ND 
+3616	YQEVLGPVRGPFPIIV	16	1784.13	ND 	ND	ND	ND	ND	ND	6.00	ND 
+3617	RPKHPIKHQ	9	1140.36	13.4 μM	Cheese (Gouda)	SHR	HIC, GPC, RP-HPLC, CE	Abubakar et al.	ND	11.17	24.7 
+3618	RPKHPIKHQGLPQ	13	1535.82	ND 	Cheese (Gouda)	ND	ND	ND	ND	11.17	ND 
+3619	YPFPGPIPN	9	1001.15	14.8 μM	Cheese (Gouda)	SHR	HIC, GPC, RP-HPLC, CE	Abubakar et al.	ND	5.52	17.2 
+3620	MPFPKYPVQPF	11	1350.64	ND 	Cheese (Gouda)	ND	ND	ND	ND	8.34	ND 
+3621	KKYNVPQL	8	989.18	77.2 μM	Cheese (Manchego)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.70	ND 
+3623	RPKHPIKHQ	9	1140.36	ND 	Cheese (Cheddar (with probiotics))	ND	ND	ND	ND	11.17	ND 
+3624	RPKHPIK	7	875.08	ND 	Cheese (Cheddar (with probiotics))	ND	ND	ND	ND	11.17	ND 
+3625	RPKHPI	6	746.91	ND 	Cheese (Cheddar (with probiotics))	ND	ND	ND	ND	11.00	ND 
+3626	FVAPFPEVFGK	11	1237.46	ND 	Cheese (Cheddar (with probiotics))	ND	ND	ND	ND	6.00	ND 
+3627	YQEPVLGPVRGPFPIIV	17	1881.25	ND 	Cheese (Cheddar (with probiotics))	ND	ND	ND	ND	6.00	ND 
+3630	RPKHPIKHQGLPQEV	15	1764.06	ND 	Cheese (Fresco)	ND	ND	ND	ND	9.99	ND 
+3631	RPKHPIKHQGLPQEVLNEN	19	2234.55	ND 	Cheese (Fresco)	ND	ND	ND	ND	8.60	ND 
+3633	EVLNENLLRF	10	1246.43	ND 	Cheese (Fresco)	ND	ND	ND	ND	4.53	ND 
+3634	FVAPFPEVFGK	11	1237.46	ND 	Cheese (Fresco)	ND	ND	ND	ND	6.00	ND 
+3635	YQEPVLGPVRGPF	13	1458.68	ND 	Cheese (Fresco)	ND	ND	ND	ND	6.00	ND 
+3636	YQEPVLGPVRGPFPI	15	1668.96	ND 	Cheese (Fresco)	ND	ND	ND	ND	6.00	ND 
+3637	YQEPVLGPVRGPFPIIV	17	1881.25	ND 	Cheese (Fresco)	ND	ND	ND	ND	6.00	ND 
+3639	SKVYPFPGPI	10	1104.31	1.7 mg/ml	Milk (Fermented Milk)	ND	ND	ND	ND	8.31	ND 
+3641	LVYPFPGPIHNSLP	14	1550.82	71 μM	Milk (Fermented Milk)	SHR	RP-HPLC	Holmquist et al. (1979)	ND	6.74	13 (approx)
+3643	LVYPFPGPIH	10	1139.36	ND 	Milk (Fermented Milk)	SHR	RP-HPLC	Holmquist et al. (1979)	ND	6.74	13 (approx)
+3644	LHLPLP	6	688.87	5.5 μM	Milk (Fermented Milk)	SHR	RP-HPLC, HPLC-MS	Cushman and Cheung (1971)	ND	6.74	21.87 
+3645	LVYPFPGPIPNSLP	14	1510.8	5.2 μM	Milk (Fermented Milk)	SHR	RP-HPLC, HPLC-MS	Cushman and Cheung (1971)	ND	5.52	21.87 
+3647	NIPPLTQTPV	10	1079.6	173.3 μM	Milk (Fermented Milk)	ND	RP-FPLC, MS	Cushman and Cheung (1971)	ND	5.52	ND 
+3648	LNVPGEIVE	9	969.5	300.1 μM	Milk (Fermented Milk)	ND	RP-FPLC, MS	Cushman and Cheung (1971)	ND	3.79	ND 
+3649	DKIHPF	6	755.4	256.8 μM	Milk (Fermented Milk)	ND	RP-FPLC, MS	Cushman and Cheung (1971)	ND	6.74	ND 
+3652	KHLPLP	6	703.88	ND 	Milk (Fermented Milk)	ND	ND	ND	ND	8.76	ND 
+3653	KVYPFPGPIPNSLPQNIPP	19	2075.44	ND 	ND	ND	ND	ND	ND	8.59	ND 
+3654	YPFGPIPN	8	904.03	ND 	Cheese (Gouda)	ND	ND	ND	ND	5.52	ND 
+3655	MPFPKYPVQPF	11	1350.64	ND 	Cheese (Gouda)	ND	ND	ND	ND	8.34	ND 
+3658	FRADPFL	7	865	ND 	ND	ND	ND	ND	ND	5.84	ND 
+3659	VPPIPP	6	618.77	ND 	ND	ND	ND	ND	ND	5.49	ND 
+3660	FFVAPFEVFGK	11	1287.52	ND 	ND	ND	ND	ND	ND	6.00	ND 
+3668	LHLPLP	6	688.87	2.9 μM	ND	Rat	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	6.74	ND 
+3669	FFVAPFPEVFGK	12	1384.64	ND 	ND	ND	ND	ND	ND	6.00	ND 
+3671	LTLTDVE	7	789.88	ND 	Casein	ND	ND	ND	ND	3.67	ND 
+3672	YPQRDMPIQ	9	1147.31	ND 	Casein	ND	ND	ND	ND	5.84	ND 
+3673	PKHKEMPFPPKYPVEPFT	18	2169.57	ND 	Casein	ND	ND	ND	ND	8.83	ND 
+3676	ALPMHIR	7	837.05	ND 	Whey protein b-lacotglobulin	ND	ND	ND	ND	9.80	ND 
+3677	KVLPVQ	6	682.86	1000 μM/L	Casein (Beta Casein)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	31.5 
+3678	LLYQQPVLGPVRGPFPIIV	19	2106.58	ND 	Milk	ND	ND	ND	ND	8.75	ND 
+3680	AYFYPEL	7	902.01	ND 	Casein	ND	ND	ND	ND	4.00	ND 
+3681	KVLPVP	6	651.85	ND 	Casein	ND	ND	ND	ND	8.75	ND 
+3687	MEGAQEAQGD	10	840	0.0934 μg/ml	Sea-cucumber flesh	SHR	UF, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	3.57	17 (approx)
+3691	VWDPPKFD	8	602.3	139 μg/ml	Fish (Salmon pectoral fin)	SHR	GFC	Cushman and Cheung (1971)	ND	4.21	ND 
+3692	FEDYVPLSCF	10	469.3	139 μg/ml	Fish (Salmon pectoral fin)	SHR	GFC	Cushman and Cheung (1971)	ND	3.67	ND 
+3693	FNVPLYE	7	147.05	139 μg/ml	Fish (Salmon pectoral fin)	SHR	GFC	Cushman and Cheung (1971)	ND	4.00	ND 
+3694	PGPLGLTGP	9	975.38	0.21 mg/ml	Fish (Skate skin)	ND	GFC	Cushman and Cheung (1971)	ND	5.96	ND 
+3695	QLGFLGPR	8	874.45	0.21 mg/ml	Fish (Skate skin)	ND	GFC	Cushman and Cheung (1971)	ND	9.75	ND 
+3698	LLMLDNDLPP	10	1301	71.81 %	Fish (Pacific cod skin)	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	3.56	ND 
+3700	TGGGNV	6	485.5	81.00 %	Fish (Pacific cod skin)	ND	FPLC, HPLC	Cushman and Cheung (1971)	ND	5.19	ND 
+3701	VWDPPKFD	8	602.3	169 μg/ml	Fish (Salmon pectoral fin)	SHR	GFC	Cushman and Cheung (1971)	ND	4.21	ND 
+3702	FEDYVPLSCF	10	469.3	169 μg/ml	Fish (Salmon pectoral fin)	SHR	GFC	Cushman and Cheung (1971)	ND	3.67	ND 
+3703	FNVPLYE	7	147.05	169 μg/ml	Fish (Salmon pectoral fin)	SHR	GFC	Cushman and Cheung (1971)	ND	4.00	ND 
+3704	TFPHGP	6	744	0.068 mg/ml	Seaweed pipefish muscle	SHR	IEC, UF, GFC, RP-HPLC	Cushman and Cheung (1971)	ND	6.40	ND 
+3705	HWTTQR	6	917	1.44 mg/ml	Seaweed pipefish muscle	SHR	IEC, UF, GFC, RP-HPLC	Cushman and Cheung (1971)	ND	9.76	ND 
+3709	DDTGHDFEDTGEAM	14	1538	14.82 μg/ml	Rotifer body	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.66	ND 
+3713	VVYPWTQRF	9	1195	0.066 μM/ml	Oyster mantle	SHR	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	ND 
+3714	FRGLMHY	7	923.1	0.81 mg/ml	Sardinelle heads	ND	SEC, RP-HPLC, GC-MS	Nakamura et al. (1995)	ND	8.75	ND 
+3720	MIFPGAGGPEL	11	130	0.056 mg/ml	Fish (Yellowfin sole frame protein)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	4.00	35 (approx)
+3736	ALPMHIR	7	837.05	ND 	Milk	ND	ND	ND	ND	9.80	ND 
+3738	AHEPVK	6	679.53	63 μM	Fungi (Agaricus bisporus)	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	6.79	ND 
+3741	KVAGPK	6	598.42	305 μM	Fungi (Agaricus bisporus)	SHR	UF, RP-HPLC, Col. Chromatography, 	ND	ND	10.00	ND 
+3745	GVQGPM	6	589.3	736.7 ± 4.8 μM	Fungi (Agaricus bisporus)	ND	SEC, RP-HPLC, LC-MS/MS	ACE inhibitory assay kit (ACE kit-WST, Dojindo Lab	ND	5.52	ND 
+3746	WPERPPQIP	9	1033.42	25.67 μg/ml	Walnut	ND	UF, Consecutive chromatography, HPLC	Cushman and Cheung (1971)	ND	6.00	ND 
+3748	FFVAPFPEVFGK	12	1384.64	ND 	Milk	ND	ND	ND	ND	6.00	ND 
+3762	NWGPLV	6	684.79	21 μM/L	Soybean (Soy (glycinin))	SHR	GFC, RP-HPLC	Kohmura & other (1989)	ND	5.52	50 (approx)
+3776	RADHPF	6	741.8	ND 	Cereals (Rice protein)	ND	ND	ND	ND	6.74	ND 
+3777	RPLKPW	6	795.98	ND 	Cereals (Rice protein)	ND	ND	ND	ND	11.00	ND 
+3778	ALPMHIR	7	837.05	ND 	Whey	ND	ND	ND	ND	9.80	ND 
+4056	YSQQQQ	6	780.79	ND 	Cereals storage protein	ND	ND	ND	ND	5.52	ND 
+4064	AQTQSLVYP	9	1006.12	ND 	Chicken connectin	ND	ND	ND	ND	5.57	ND 
+4067	AVPYPQR	7	829.95	ND 	Bovine Beta Casein	ND	ND	ND	ND	8.79	ND 
+4069	FAQTQSLVYP	10	1153.3	ND 	Bovine Beta Casein	ND	ND	ND	ND	5.52	ND 
+4076	HPFAQTQSLVYP	12	1387.56	ND 	Bovine Beta Casein	ND	ND	ND	ND	6.74	ND 
+4078	IHPFAQTQSLVYP	13	1500.72	ND 	Bovine Beta Casein	ND	ND	ND	ND	6.74	ND 
+4084	KIHPFAQTQSLVYP	14	1628.89	ND 	Bovine Beta Casein	ND	ND	ND	ND	8.60	ND 
+4085	KYPVQPFTESQSLTL	15	1737.97	ND 	Bovine Beta Casein	ND	ND	ND	ND	6.00	ND 
+4089	LLYQQPVLGPVRGPFPIIV	19	2106.58	ND 	Bovine Beta Casein	ND	ND	ND	ND	8.75	ND 
+4091	LPQNIPPLTQTPVVVPPFLQPEVMGVSK	28	3026.63	ND 	Bovine Beta Casein4	ND	ND	ND	ND	6.00	ND 
+4107	QSLVYP	6	705.81	ND 	Bovine Beta Casein	ND	ND	ND	ND	5.52	ND 
+4108	QTQSLVYP	8	935.04	ND 	Bovine Beta Casein	ND	ND	ND	ND	5.52	ND 
+4109	RDMPIQAF	8	977.15	ND 	Bovine Beta Casein	ND	ND	ND	ND	5.84	ND 
+4113	SKVLPVPE	8	868.04	ND 	Bovine Beta Casein	ND	ND	ND	ND	5.72	ND 
+4115	TPVVVPPFLQP	11	1193.45	ND 	Bovine Beta Casein4	ND	ND	ND	ND	5.19	ND 
+4116	TQSLVYP	7	806.91	ND 	Bovine Beta Casein5	ND	ND	ND	ND	5.18	ND 
+4127	VYPFPG	6	678.79	ND 	Bovine Beta Lactoglobulin	ND	ND	ND	ND	5.49	ND 
+4132	YPVQPFTE	8	980.09	ND 	Bovine Beta Lactoglobulin	ND	ND	ND	ND	4.00	ND 
+4133	YQQPVL	6	746.86	ND 	Bovine Beta Lactoglobulin	ND	ND	ND	ND	5.52	ND 
+4134	YQQPVLGPVR	10	1156.35	ND 	Bovine Beta Lactoglobulin	ND	ND	ND	ND	8.75	ND 
+4136	KVLILA	6	655.88	20.85 μM/L	Milk casein	ND	SEC, RP-HPLC	ND	ND	8.75	ND 
+4142	FFVAPFPGVFGK	12	1312.58	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	34 
+4143	TTMPLW	6	747.91	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.19	13.6 
+4144	AVPYPQR	7	829.95	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.79	10 
+4145	MAIPPKK	7	784.03	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	10.00	28 
+4147	AYFYPEL	7	902.01	ND 	Milk proteins	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	4.00	20 
+4148	YQKFPQY	7	973.1	ND 	Milk proteins	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.50	15 
+4149	PYVRYL	6	809.96	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	9.00	23.4 
+4150	RRWQWR	6	987.13	ND 	Milk proteins	SHR	RP-HPLC	Wu J et al., 2002	ND	12.30	16.7 
+4154	YAKPVA	6	647.77	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.59	23.1 
+4155	WQVLPNAVPAK	11	1222.45	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	18.4 
+4156	HPHPHLSF	8	971.09	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	7.02	15.7 
+4158	VYPFPG	6	678.79	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.49	22 
+4159	TPVVVPPFLQP	11	1193.45	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.19	8 
+4162	YKVPQL	6	746.9	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.59	13 
+4163	AMPKPW	6	728.91	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.80	5 
+4164	MKPWIQPK	8	1027.29	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	10.00	3 
+4167	KVLPVP	6	651.85	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	32 
+4168	KVLPVPQ	7	779.98	ND 	Milk proteins	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	31.5 
+4172	RYPSYG	6	741.8	ND 	Milk proteins	ND	ND	ND	ND	8.59	ND 
+4179	LVYPFPGPIPNSLPQNIPP	19	2060.42	ND 	Milk proteins	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	5.52	14.9 
+4180	LHLPLP	6	688.87	ND 	Milk proteins	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	6.74	25.3 
+4181	LHLPLPL	7	802.03	ND 	Milk proteins	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	6.74	7.7 
+4183	VLGPVRGPFP	10	1038.26	ND 	Milk proteins	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	9.72	16.2 
+4184	VRGPFPIIV	9	997.25	ND 	Milk proteins	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	9.72	16.1 
+4185	LVYPFTGPIPN	11	1216.4	27.9 mM	Milk proteins	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	5.52	28 
+4188	YAKPVA	6	647.3	14.3 mM	Milk Casein derived	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.59	23.1 
+4189	WQVLPNAVPAK	11	1221.7	10.1 mM	Milk Casein derived	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.75	18.44 
+4190	HPHPHLSF	8	970.5	28.9 mM	Milk Casein derived	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	7.02	15.7 
+4191	KKYNVPQL	8	988.6	77.1 mM	Milk Casein derived	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	9.70	11.5 
+4192	RPKHPIKHQ	9	1140.36	ND 	Milk proteins	SHR	RP-HPLC, GPC	Abubakar et al.	ND	11.17	9.3 
+4193	YPFPGPIPN	9	1001.15	ND 	Milk proteins	SHR	RP-HPLC, GPC	Abubakar et al.	ND	5.52	7 
+4195	YRGGLEPINF	10	1165.31	ND 	Egg proteins	ND	ND	ND	ND	6.00	ND 
+4196	ESIINF	6	721.81	ND 	Egg proteins	ND	ND	ND	ND	4.00	ND 
+4197	YAEERYPIL	9	1153.3	ND 	Egg proteins	ND	ND	ND	ND	4.53	ND 
+4198	RADHPFL	7	854.96	ND 	Egg proteins	ND	ND	ND	ND	6.74	ND 
+4200	FRADHPFL	8	1002.14	ND 	Egg proteins	ND	ND	ND	ND	6.74	ND 
+4204	KRQKYDI	7	950.11	ND 	Porcine troponin hydrolysate	SHR	AEC, RP-HPLC, GF	Cushman and Cheung (1971)	ND	9.70	9.6 
+4207	VKKVLGNP	8	854.06	ND 	Porcine myosin hydrolysate	SHR	RP-HPLC	Katayama and others	ND	10.00	24 
+4208	KRVIQY	6	805.98	ND 	Porcine myosin hydrolysate	SHR	RP-HPLC	Cushman and Cheung (1971), Katayama et al. 2004	ND	9.99	23 
+4212	GAAELPCSADWW	12	1305.43	ND 	Bullfrog muscle protein hydrolysate	SHR	ESI-MS	Cushman and Cheung (1971), Yamamoto and others	ND	3.67	10 
+4216	VVYPWTQRF	9	1195.39	ND 	Oyster protein hydrolysate	SHR	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.72	12 
+4217	MEGAQEAQGD	10	1035.05	ND 	Sea-cucumber hydrolysate	SHR	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.57	19 
+4218	MIFPGAGGPEL	11	1088.29	ND 	Fish (Yellowfin sole protein hydrolysate)	SHR	GFC, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	22 
+4219	GDLGKTTTVSNWSPPKYKDTP	21	2292.53	ND 	Fish (Tuna frame protein hydrolysate)	SHR	UF, IEC, HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	8.43	21 
+4220	WPEAAELMMEVDP	13	1517.73	ND 	Fish (Tuna dark muscle hydrolysate)	SHR	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	3.50	20 
+4224	IVGRPRHQG	9	1019.17	ND 	Fish (Dried bonito hydrolysate)	SHR	HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	12.00	14 
+4225	IVGRPR	6	696.85	ND 	Fish (Dried bonito hydrolysate)	SHR	HPLC	Cushman and Cheung (1971), Yamamoto and others	ND	12.00	17 
+4262	RLPSEFDLSAFLRA	14	1622.85	ND 	Fungi (Pleurotus cornucopiae)	SHR	RP-FPLC	Cushman and Cheung (1971)	ND	6.07	50 
+4263	RLSGQTIEVTSEYLFRH	17	2037.26	ND 	Fungi (Pleurotus cornucopiae)	SHR	RP-FPLC	Cushman and Cheung (1971)	ND	6.76	ND 
+4266	ALPMHIR	7	837.05	ND 	Bovine whey proteins	ND	ND	ND	ND	9.80	ND 
+4267	ALKAWSVAR	9	1001.2	ND 	Bovine whey proteins	ND	ND	ND	ND	11.00	ND 
+4268	YPFPGPI	7	789.93	ND 	Bovine casein proteins	ND	ND	ND	ND	5.52	ND 
+4269	AVPYPQR	7	829.95	ND 	Bovine casein proteins	ND	ND	ND	ND	8.79	ND 
+4270	YQQPVLGPVR	10	1156.35	ND 	Bovine casein proteins	ND	ND	ND	ND	8.75	ND 
+4271	KVLPVPQ	7	779.98	ND 	Bovine casein proteins	ND	ND	ND	ND	8.75	ND 
+4272	FFVAPFPEVFGK	12	1384.64	ND 	Bovine casein proteins	ND	ND	ND	ND	6.00	ND 
+4274	YKVPQL	6	746.9	ND 	Bovine casein proteins	ND	ND	ND	ND	8.59	ND 
+4275	TTMPLW	6	747.91	ND 	Bovine casein proteins	ND	ND	ND	ND	5.19	ND 
+4276	QNLLRF	6	789.93	82.4 μg/ml	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	9.75	ND 
+4278	RPKHPIKH	8	1012.23	892.83 μg/ml	Milk-Cheese (Goat milk protein and cheeses)	ND	RP-HPLC	Vermeirssen et al.	ND	11.17	ND 
+4280	YQKFPQY	7	973.1	95.46 μg/ml	Milk-Cheese (Goat milk protein and cheeses)	ND	RP-HPLC	Vermeirssen et al.	ND	8.50	ND 
+4281	KFAYPQ	6	752.87	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	8.59	ND 
+4283	PYVRYL	6	809.96	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	9.00	ND 
+4284	TVDQHQ	6	726.74	210.5 μg/ml	Milk-Cheese (Goat milk protein and cheeses)	SHR	RP-HPLC	Wu J et al., 2002	ND	5.05	10 (approx)
+4285	TGPIPN	6	597.67	316 μg/ml	Milk-Cheese (Goat milk protein and cheeses)	SHR	RP-HPLC	Wu J et al., 2002	ND	5.19	10 (approx)
+4289	LVYPFPGP	8	889.06	147.3 μg/ml	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	5.52	ND 
+4291	DKIHPF	6	755.87	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	6.74	ND 
+4292	PLTQTP	6	655.75	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	5.96	ND 
+4297	LVYPFTGPIPN	11	1217.43	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	5.52	ND 
+4298	MAIPPK	6	655.85	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	8.50	ND 
+4299	MAIPPKK	7	784.03	ND 	Milk-Cheese (Goat milk protein and cheeses)	ND	ND	ND	ND	10.00	ND 
+4300	LKPTPQGN	8	853.97	>2700 μg/ml	Whey	ND	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	ND 
+4305	YQNPRLGPTGELDPATQPIVAVHNPVIV	28	2996.42	14.53 μM	P-CN	ND	UF, HPLC	HPLC method by Mao et al., 2007	ND	5.32	ND 
+4306	PKDLREN	7	870.96	9.82 μM	CPN1	ND	UF, HPLC	HPLC method by Mao et al., 2007	ND	6.49	ND 
+4307	LLLAHLL	7	792.03	5.19 μM	ND	ND	UF, HPLC	HPLC method by Mao et al., 2007	ND	6.74	ND 
+4308	NHRNRMMDHVH	11	1446.63	13.42 μM	ND	ND	UF, HPLC	HPLC method by Mao et al., 2007	ND	9.62	ND 
+4310	KKYNVPQL	8	989.18	77.1 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.70	ND 
+4311	PYVRYL	6	809.96	2.4 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.00	ND 
+4312	LKKISQ	6	715.89	2.6 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	10.00	ND 
+4314	DKIHPF	6	755.87	2419.4 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	6.74	ND 
+4319	YPVEPFTE	8	981.07	ND 	Milk-Cheese (Sheep milk and cheeses proteins)	ND	RP-HPLC, LC-MS/MS	Cushman and Cheung (1971)	ND	3.79	ND 
+4320	YIPIQY	6	795.93	10 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	RP-HPLC	ND	ND	5.52	ND 
+4321	EKDERF	6	822.87	14.3 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	RP-HPLC	ND	ND	4.68	ND 
+4324	MAIPPK	6	655.85	ND 	Milk-Cheese (Sheep milk and cheeses proteins)	ND	ND	ND	ND	8.50	ND 
+4325	MAIPPKK	7	784.03	ND 	Milk-Cheese (Sheep milk and cheeses proteins)	ND	ND	ND	ND	10.00	ND 
+4328	ALPMHIR	7	837.05	62.6 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	SEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.80	ND 
+4329	IIVTQTMK	8	933.17	70.8 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	ND 
+4330	IDALNENK	8	916	71.2 μM	Milk-Cheese (Sheep milk and cheeses proteins)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.37	ND 
+4333	LNNSRAP	7	770.84	105.3 μM	ND	SHR	RP-HPLC	Sentandreu and Toldra (2006)	ND	9.75	14 (approx)
+4334	AQTQSL	6	646.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	5.57	ND 
+4335	VVVPPF	6	656.2	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	5.49	ND 
+4336	VRGPFP	6	671.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	9.72	ND 
+4337	FAQTQS	6	680.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	5.52	ND 
+4338	LHLPLP	6	688.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.74	ND 
+4339	LTDVEN	6	689.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	3.67	ND 
+4340	FTESQS	6	697.2	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	4.00	ND 
+4341	VSKVKET	7	759.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	8.56	ND 
+4342	LLYQEP	6	761.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	4.00	ND 
+4343	VLPVPQK	7	779.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	8.72	ND 
+4344	LHLPLPL	7	801.6	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.74	ND 
+4345	HPFAQTQ	7	827.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.74	ND 
+4346	LQDKIHP	7	849.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.74	ND 
+4347	ITRINKK	7	871.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	11.17	ND 
+4348	LTLTDVEN	8	903.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	3.67	ND 
+4349	VRGPFPIIV	9	996.5	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	9.72	ND 
+4350	LQPEVMGVSK	10	1086.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.00	ND 
+4351	LSQSKVLPVPQK	12	1322.5	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	10.00	ND 
+4352	VFGKEK	6	706.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	8.56	ND 
+4353	IHAQQKEP	8	949.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.75	ND 
+4354	LKKYKVPQ	8	1002.5	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	10.00	ND 
+4356	PGPIHN	6	633.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	7.17	ND 
+4358	IPPLTQ	6	668.2	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	5.52	ND 
+4360	PQRDMP	6	742.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.27	ND 
+4361	LQPEVMG	7	772.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	4.00	ND 
+4362	LHLPLPLL	8	915.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.74	ND 
+4363	VLGPVRGPFP	10	1037.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	9.72	ND 
+4364	LTQTPVVVPPF	11	1196.4	>1500 μM	Milk (Bovine skim milk)	ND	HPLC-MS	ND	ND	5.52	ND 
+4369	FVAPFP	6	676.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	5.52	ND 
+4370	LEIVPK	6	683.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.00	ND 
+4371	VLNENL	6	700.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	4.00	ND 
+4372	LHSMKEG	7	800.3	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.75	ND 
+4373	FPEVFGK	7	822.4	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	6.00	ND 
+4374	IPNPIGSE	8	825.6	ND 	Milk (Bovine skim milk)	ND	ND	ND	ND	4.00	ND 
+4376	LDAQSAPLR	9	970.09	ND 	Milk (Digested milk products)	ND	LC-MS	ND	ND	5.84	ND 
+4379	RPKHPIKHQ	9	1140.36	ND 	Milk (Digested milk products)	ND	LC-MS	ND	ND	11.17	ND 
+4383	FPEVFGK	7	822.96	ND 	Milk (Digested milk products)	ND	LC-MS	ND	ND	6.00	ND 
+4385	DAYPSGAW	8	865.9	ND 	Milk (Digested milk products)	ND	LC-MS	ND	ND	3.80	ND 
+4387	TTMPLW	6	747.91	ND 	Milk (Digested milk products)	ND	LC-MS	ND	ND	5.19	ND 
+4390	VYVEELKPTPE	11	1303.47	ND 	Whey (Beta Lactoglobulin)	ND	LC-MS	ND	ND	4.25	ND 
+4392	TPEVDDEALE	10	1117.13	ND 	Whey (Beta Lactoglobulin)	ND	LC-MS	ND	ND	3.39	ND 
+4393	VAPFPEV	7	757.88	ND 	Casein	ND	LC-MS	ND	ND	4.00	ND 
+4394	DAYPSGA	7	679.68	ND 	Casein	ND	LC-MS	ND	ND	3.80	ND 
+4453	LVYPFP	6	734.89	132 μM	ND	ND	RP-HPLC, LC-MS	Cushman and Cheung (1971), Gonzalez-Gonzalez et al	ND	5.52	ND 
+4458	TNGIIR	6	672.78	70 μM	Egg (Ovalbumin of egg white protein)	ND	LC/MS/MS, TMS	Liu et al., 2010	ND	9.41	ND 
+4459	HANENIF	7	843.89	ND 	Egg (Ovalbumin of egg white protein)	ND	LC/MS/MS, TMS	Liu et al., 2010	ND	5.24	ND 
+4461	FRADHPFL	8	1002.14	ND 	ND	ND	ND	ND	ND	6.74	ND 
+4462	RADHPFL	7	854.96	ND 	ND	ND	ND	ND	ND	6.74	ND 
+4463	YAEERYPIL	9	1153.3	ND 	ND	ND	ND	ND	ND	4.53	ND 
+4464	RADHRYNDLGHR	12	1509.61	ND 	ND	ND	ND	ND	ND	8.76	ND 
+4465	FGRCVSP	7	764.9	ND 	ND	ND	ND	ND	ND	8.25	ND 
+4466	NIFYCP	6	755.89	ND 	ND	ND	ND	ND	ND	5.52	ND 
+4467	FFGRCVSP	8	912.07	ND 	ND	ND	ND	ND	ND	8.25	ND 
+4470	ERKIKVYL	8	1048.29	ND 	ND	ND	ND	ND	ND	9.70	ND 
+4474	VVYPWTQRF	9	1195.39	ND 	ND	ND	ND	ND	ND	8.72	ND 
+4476	LVYPFTGPIPN	11	1217.43	ND 	Egg white protein	ND	ND	ND	ND	5.52	ND 
+4478	RVPSLM	6	701.88	23.07 μM/L	Egg white protein	ND	LC–MS–MS	HPLC-assay	ND	9.75	ND 
+4481	AGLAPY	6	590.68	ND 	Egg white protein	ND	ND	HPLC-assay	ND	5.57	ND 
+4482	DHPFLF	6	774.87	ND 	Egg white protein	ND	ND	HPLC-assay	ND	5.08	ND 
+4598	IVGRPRHQG	9	1019.17	ND 	ND	ND	ND	ND	ND	12.00	ND 
+4599	IVGRPRHQG	9	1019.17	ND 	ND	ND	ND	ND	ND	12.00	ND 
+4600	QVSLNSGYY	9	1030.1	ND 	ND	ND	ND	ND	ND	5.52	ND 
+4601	LDAQSAPLR	9	970.09	ND 	ND	ND	ND	ND	ND	5.84	ND 
+4602	AMKPWIQPK	9	1098.37	ND 	ND	ND	ND	ND	ND	10.00	ND 
+4603	ALKAWSVAR	9	1001.2	ND 	ND	ND	ND	ND	ND	11.00	ND 
+4604	GPAGAPGAA	9	667.72	ND 	ND	ND	ND	ND	ND	5.52	ND 
+4605	EWPRPQIPP	9	1119.29	ND 	ND	ND	ND	ND	ND	6.10	ND 
+4606	YANPAVVRP	9	986.14	ND 	ND	ND	ND	ND	ND	8.75	ND 
+4607	ALNEINQFY	9	1111.22	ND 	ND	ND	ND	ND	ND	4.00	ND 
+4608	RPKHPIKHQ	9	1140.36	ND 	ND	ND	ND	ND	ND	11.17	ND 
+4609	YPFPGPIPN	9	1001.15	ND 	ND	ND	ND	ND	ND	5.52	ND 
+4610	LVYPFPGPI	9	1002.22	ND 	ND	ND	ND	ND	ND	5.52	ND 
+4611	VIGSPPQIN	9	924.06	ND 	ND	ND	ND	ND	ND	5.49	ND 
+4612	RMLGQTPTK	9	1031.24	ND 	ND	ND	ND	ND	ND	11.00	ND 
+4613	LTQTPVVPP	9	951.13	ND 	ND	ND	ND	ND	ND	5.52	ND 
+4614	VVYPWTQRF	9	1195.39	ND 	ND	ND	ND	ND	ND	8.72	ND 
+4615	YYAPFDGIL	9	1058.2	ND 	ND	ND	ND	ND	ND	3.80	ND 
+4616	AFKAWAVAR	9	1019.21	ND 	ND	ND	ND	ND	ND	11.00	ND 
+4617	QNALIVRYTR	10	1233.44	4.6 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	10.84	ND 
+4618	KALPMHIRLAF	11	1296.64	11 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	11.00	ND 
+4619	EGPKLVAS	8	799.92	17.5 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	6.10	ND 
+4620	PVGLVQPASATLYDY	15	1593.8	19 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	3.80	ND 
+4621	KVGTKCCAKP	10	1034.3	30 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	9.39	ND 
+4622	REKVLASS	8	889.02	32 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	8.75	ND 
+4623	PKIDAMREKVLA	12	1370.67	103 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	9.00	ND 
+4624	PRKEKLCTTS	10	1162.37	142 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	9.37	ND 
+4625	YQEPVLGPVRG	11	1214.39	412 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	6.00	ND 
+4626	NAGPFTPTVNREQLSTS	17	1818.96	>1000 μM	Milk (Sheep raw milk cheese (synthesised))	ND	HPLC, IEC, RP-HPLC	Wu J et al., 2002	ND	6.00	ND 
+4637	IFVPAF	6	692.86	3.4 μM	Acetes chinensis (shrimp)	ND	UF, GPC, HPLC	Cushman and Cheung, Nakamura et al. (1995)	ND	5.52	ND 
+4638	YLAGNQ	6	664.72	14 μM	Pepsin	SHR	IEC, GF, HPLC	Cheung and Cushman	ND	5.52	15 (approx)
+4644	LHGPYP	6	682.78	75.4 μM	ND	ND	ND	ND	ND	6.74	ND 
+4645	LHLPAP	6	646.79	4.2 μM	ND	ND	ND	ND	ND	6.74	ND 
+5011	YKVPQL	6	746.9	22 μM	Casein (Αs1-casein)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.59	12.5 
+5012	KVLPVP	6	651.85	5 μM	Casein (Β-casein)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	32.2 
+5013	KVLPVP	6	651.85	4.6 μM	Clostripain	SHR	UF, RP-HPLC	ND	ND	8.75	21.4 
+5014	YAKPVA	6	647.77	ND 	Κ-CN f	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	8.59	23.1 
+5015	TTMPLW	6	747.91	16 μM	Casein (Αs1-casein)	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	5.19	13.6 
+5016	PYVRYL	6	809.96	ND 	Αs2-CN f	SHR	Spectrophotometric, HPLC, UPLC	Cushman and Cheung (1971)	ND	9.00	23.4 
+5017	VYPFPG	6	678.79	ND 	Β-CN f	SHR	ND	ND	ND	5.49	22.0 
+5018	AMPKPW	6	728.91	ND 	Αs2-CN f	SHR	ND	ND	ND	8.80	5.0 
+5019	YKVPQL	6	746.9	ND 	Αs1-CN f	SHR	ND	ND	ND	8.59	13.0 
+5020	KVLPVP	6	651.85	ND 	Β-CN f	SHR	ND	ND	ND	8.75	32.2 
+5021	RRWQWR	6	987.13	ND 	Lfcin f	SHR	ND	ND	ND	12.30	16.7 
+5022	ESIINF	6	721.81	ND 	Egg white hydrolysate	SHR	ND	ND	ND	4.00	30.0 
+5023	LHLPLP	6	688.87	5.4 μM	Β-CN f	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	6.74	25.3 
+5024	KRVIQY	6	805.98	ND 	Porcine myosin hydrolysate	SHR	ND	ND	ND	9.99	23.0 
+5025	IVGRPR	6	696.85	ND 	Fish (Dried bonito hydrolysate)	SHR	ND	ND	ND	12.00	17.0 
+5026	LHLPLPL	7	802.03	432.7 μM	Β-CN f	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	6.74	7.7 
+5027	KRQKYDI	7	950.11	ND 	Porcine troponin hydrolysate	SHR	ND	ND	ND	9.70	9.6 
+5028	RADHPFL	7	854.96	ND 	Egg white hydrolysate	SHR	ND	ND	ND	6.74	34.1 
+5029	MAIPPKK	7	784.03	ND 	CMP f	SHR	ND	ND	ND	10.00	28.0 
+5030	KVLPVPQ	7	779.98	>1000 μM	Casein (Β-casein)	SHR	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	24.1 
+5031	AVPYPQR	7	829.95	15 μM	Casein (Β-casein)	SHR	HPLC	Kasahara and Ashihara (1981)	ND	8.79	10 
+5032	AYFYPEL	7	902.01	ND 	Αs1-CN f	SHR	ND	ND	ND	4.00	20.0 
+5033	KVLPVPQ	7	779.98	ND 	Β-CN f	SHR	ND	ND	ND	8.75	31.5 
+5034	YQKFPQY	7	973.1	ND 	Αs2-CN f	SHR	ND	ND	ND	8.50	15.0 
+5035	HPHPHLSF	8	971.09	ND 	Κ-CN f	SHR	ND	ND	ND	7.02	15.7 
+5036	VRGPFPIIV	9	997.25	630 μM	Β-CN f	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	9.72	16.05 
+5037	YPFPGPIPN	9	1001.15	ND 	Β-CN f	SHR	ND	ND	ND	5.52	7.0 
+5038	VRGPFPIIV	9	997.25	ND 	Β-CN f	SHR	ND	ND	ND	9.72	16.1 
+5039	YAEERYPIL	9	1153.3	ND 	Egg white hydrolysate	SHR	ND	ND	ND	4.53	31.6 
+5040	KKYNVPQL	8	989.18	ND 	Αs1-CN f	SHR	ND	ND	ND	9.70	11.5 
+5041	MKPWIQPK	8	1027.29	ND 	Αs2-CN f	SHR	ND	ND	ND	10.00	3.0 
+5042	VKKVLGNP	8	854.06	ND 	Porcine myosin hydrolysate	SHR	ND	ND	ND	10.00	24.0 
+5043	RPKHPIKHQ	9	1140.36	ND 	Αs1-CN f	SHR	ND	ND	ND	11.17	9.3 
+5044	IVGRPRHQG	9	1019.17	ND 	Fish (Dried bonito hydrolysate)	SHR	ND	ND	ND	12.00	14.0 
+5045	YRGGLEPINF	10	1165.31	ND 	Egg white hydrolysate	SHR	ND	ND	ND	6.00	30.0 
+5046	VLGPVRGPFP	10	1038.26	ND 	Β-CN f	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	9.72	16.2 
+5047	LVYPFTGPIPN	11	1217.43	ND 	Β-CN f	SHR	ND	ND	ND	5.52	28.0 
+5048	MEGAQEAQGD	10	1035.05	ND 	Sea-cucumber hydrolysate	SHR	ND	ND	ND	3.57	19.0 
+5049	MIFPGAGGPEL	11	1088.29	ND 	Fish (Yellowfin sole frame protein hydrolysate)	SHR	ND	ND	ND	4.00	22.0 
+5050	TPVVVPPFLQP	11	1193.45	ND 	Β-CN f	SHR	ND	ND	ND	5.19	8.0 
+5051	WQVLPNAVPAK	11	1222.45	ND 	Κ-CN f	SHR	ND	ND	ND	8.75	18.4 
+5052	FFVAPFPEVFGK	12	1384.64	77 μM	Casein (Αs1-casein)	SHR	RP-HPLC	Nakamura et al. (1995), Vermeirssen et al.	ND	6.00	13 
+5053	FFVAPFPGVFGK	12	1312.58	ND 	Αs1-CN f	SHR	ND	ND	ND	8.75	34.0 
+5054	GAAELPCSADWW	12	1305.43	ND 	Bullfrog muscle protein hydrolysate	SHR	ND	ND	ND	3.67	10.0 
+5055	WPEAAELMMEVDP	13	1517.73	ND 	Fish (Tuna dark muscle hydrolysate)	SHR	ND	ND	ND	3.50	20.0 
+5056	LVYPFPGPIPNSLPQNIPP	19	2060.42	5.3 μM	Β-CN f	SHR	RP-HPLC, MS	Cushman and Cheung (1971)	ND	5.52	14.9 
+5057	GDLGKTTTVSNWSPPKYKDTP	21	2292.53	ND 	Fish (Tuna frame protein hydrolysate)	SHR	ND	ND	ND	8.43	21 
+5348	CWLPVY	6	779.95	22.2 μM	ND	ND	ND	ND	ND	5.52	ND 
+5349	DYGLYP	6	726.78	62 μM	ND	ND	ND	ND	ND	3.80	ND 
+5350	ENLLRF	6	790.92	82.4 μM	ND	ND	ND	ND	ND	6.10	ND 
+5351	FALPQY	6	737.85	4.3 μM	ND	ND	ND	ND	ND	5.52	ND 
+5352	FCVLRP	6	733.93	12.3 μM	ND	ND	ND	ND	ND	8.25	ND 
+5353	GLDIQK	6	672.78	580 μM	ND	ND	ND	ND	ND	5.84	ND 
+5354	GVYPHK	6	699.81	1.6 μM	ND	ND	ND	ND	ND	8.60	ND 
+5355	HIKWGD	6	754.84	50 μM	ND	ND	ND	ND	ND	6.74	ND 
+5356	IFVPAF	6	692.86	3.4 μM	ND	ND	ND	ND	ND	5.52	ND 
+5357	IKPLNY	6	746.9	43 μM	ND	ND	ND	ND	ND	8.59	ND 
+5358	KFAWPQ	6	775.91	177.1 μM	ND	ND	ND	ND	ND	8.75	ND 
+5359	KPPETV	6	669.78	24.1 μM	ND	ND	ND	ND	ND	6.00	ND 
+5360	LAHKAL	6	651.81	621 μM	ND	ND	ND	ND	ND	8.76	ND 
+5361	LAYFYP	6	772.9	65 μM	ND	ND	ND	ND	ND	5.52	ND 
+5362	LHLPAP	6	646.79	6 μM	ND	ND	ND	ND	ND	6.74	ND 
+5363	LHLPGP	6	632.76	1.9 μM	ND	ND	ND	ND	ND	6.74	ND 
+5364	LHLPLL	6	704.91	3.5 μM	ND	ND	ND	ND	ND	6.74	ND 
+5365	LHLPLP	6	688.87	5.5 μM	ND	ND	ND	ND	ND	6.74	ND 
+5366	LHLPYP	6	738.88	2.3 μM	ND	ND	ND	ND	ND	6.74	ND 
+5367	LHLWLP	6	777.96	9 μM	ND	ND	ND	ND	ND	6.74	ND 
+5368	LHLYLP	6	754.93	18.9 μM	ND	ND	ND	ND	ND	6.74	ND 
+5369	LRIPVA	6	667.85	0.38 μM	ND	ND	ND	ND	ND	9.75	ND 
+5370	MYPGIA	6	650.79	641.02 μM	ND	ND	ND	ND	ND	5.27	ND 
+5371	PAVVLP	6	594.75	45 μM	ND	ND	ND	ND	ND	5.96	ND 
+5372	PAVVRP	6	637.78	18 μM	ND	ND	ND	ND	ND	10.18	ND 
+5373	PHQIYP	6	753.86	30 μM	ND	ND	ND	ND	ND	7.17	ND 
+5374	PPPVHL	6	658.8	110 μM	ND	ND	ND	ND	ND	7.17	ND 
+5375	PQEVLP	6	681.79	910 μM	ND	ND	ND	ND	ND	4.00	ND 
+5376	PQNILP	6	680.8	440 μM	ND	ND	ND	ND	ND	5.96	ND 
+5377	PTHIAW	6	723.83	0.39 μM	ND	ND	ND	ND	ND	7.17	ND 
+5378	PTHIDW	6	767.84	13 μM	ND	ND	ND	ND	ND	5.08	ND 
+5379	PTHIKW	6	780.92	1.8 μM	ND	ND	ND	ND	ND	9.18	ND 
+5380	PTHVAW	6	709.8	1.5 μM	ND	ND	ND	ND	ND	7.17	ND 
+5381	PVRAVP	6	637.78	170 μM	ND	ND	ND	ND	ND	10.18	ND 
+5382	PYVRYL	6	809.96	2.4 μM	ND	ND	ND	ND	ND	9.00	ND 
+5383	QLLKLK	6	741.97	342.4 μM	ND	ND	ND	ND	ND	10.00	ND 
+5384	QPLIYP	6	729.87	3.6 μM	ND	ND	ND	ND	ND	5.52	ND 
+5385	QSLVYP	6	705.81	41 μM	ND	ND	ND	ND	ND	5.52	ND 
+5386	RPKHPI	6	746.91	40.3 μM	ND	ND	ND	ND	ND	11.00	ND 
+5387	TGPIPN	6	597.67	316 μM	ND	ND	ND	ND	ND	5.19	ND 
+5388	TTMPLW	6	747.91	12 μM	ND	ND	ND	ND	ND	5.19	ND 
+5389	TTMPLW	6	747.91	51 μM	ND	ND	ND	ND	ND	5.19	ND 
+5390	TVDQHQ	6	726.74	183.5 μM	ND	ND	ND	ND	ND	5.05	ND 
+5391	VAGTWY	6	695.77	1682 μM	ND	ND	ND	ND	ND	5.49	ND 
+5392	VHLPPP	6	658.8	200 μM	ND	ND	ND	ND	ND	6.71	ND 
+5393	VLPIPQ	6	665.83	5300 μM	ND	ND	ND	ND	ND	5.49	ND 
+5394	VLPYPV	6	686.85	420 μM	ND	ND	ND	ND	ND	5.49	ND 
+5395	VPFGVG	6	574.68	336 μM	ND	ND	ND	ND	ND	5.49	ND 
+5396	VPQPIP	6	649.79	290 μM	ND	ND	ND	ND	ND	5.49	ND 
+5397	VRGPFP	6	671.8	592 μM	ND	ND	ND	ND	ND	9.72	ND 
+5398	VTPALR	6	655.8	82.4 μM	ND	ND	ND	ND	ND	9.72	ND 
+5399	VYPFPG	6	678.79	221 μM	ND	ND	ND	ND	ND	5.49	ND 
+5400	WSKVVL	6	730.91	156.28 μM	ND	ND	ND	ND	ND	8.75	ND 
+5401	YALPHA	6	670.77	9.8 μM	ND	ND	ND	ND	ND	6.74	ND 
+5402	YQQPVL	6	746.86	280 μM	ND	ND	ND	ND	ND	5.52	ND 
+5403	YSQQQQ	6	780.79	860 μM	ND	ND	ND	ND	ND	5.52	ND 
+5524	LNNSRAP	7	770.84	105.3 μM	ND	SHR	HPLC	ND	ND	9.75	ND 
+5525	TGPIPN	6	597.67	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	5.19	ND 
+5526	LHLPLPL	7	802.03	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	6.74	ND 
+5527	HLPLPL	6	688.87	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	6.74	ND 
+5528	EMPFPK	6	747.91	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	6.10	ND 
+5529	VLPVPQ	6	651.8	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	5.49	ND 
+5530	YPVEPF	6	750.85	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	4.00	ND 
+5531	YPSYGLNYY	9	1139.23	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	5.52	ND 
+5532	VVAPFPEVF	9	1004.19	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	4.00	ND 
+5533	FVVAPFPEVF	10	1151.37	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	4.00	ND 
+5534	FFVAPFPEVFGK	12	1384.64	ND 	Milk (Goat milk protein)	ND	ND	ND	ND	6.00	ND 
+5535	FVAPFPEVF	9	1052.24	ND 	Cheese (Probiotic Cheddar cheeses with Lb. Casei )	ND	RP-HPLC	ND	ND	4.00	ND 
+5536	FVAPFPEVF	9	1052.24	ND 	Cheese (Probiotic Cheddar cheeses with Lb. Casei )	ND	RP-HPLC	ND	ND	4.00	ND 
+5549	EPVLGPVRGPFP	12	1264.49	ND 	Casein derived	ND	RP-HPLC	ND	ND	6.10	ND 
+5550	FFVAPFPEVFGK	12	1384.64	ND 	Casein derived	ND	RP-HPLC	ND	ND	6.00	ND 
+5551	YQEPVLGPVRGPFPIIV	17	1881.25	ND 	Casein derived	ND	RP-HPLC	ND	ND	6.00	ND 
+5552	VRGPFPIIV	9	997.25	ND 	Casein derived	ND	RP-HPLC	ND	ND	9.72	ND 
+5553	VLGPVRGPFP	10	1038.26	ND 	Casein derived	ND	RP-HPLC	ND	ND	9.72	ND 
+5554	MPFPKYPVEP	10	1204.45	ND 	Casein derived	ND	RP-HPLC	ND	ND	5.75	ND 
+5555	FALPQYLK	8	979.19	ND 	Casein derived	ND	RP-HPLC	ND	ND	8.59	ND 
+5556	FVAPFPEVFG	10	1109.29	ND 	Casein derived	ND	RP-HPLC	ND	ND	4.00	ND 
+5557	FFVAPFPEVFGK	12	1384.64	77 μM	Casein	ND	ND	ND	ND	6.00	ND 
+5558	AVPYPQR	7	829.95	15 μM	Casein	ND	ND	ND	ND	8.79	ND 
+5559	TTMPLW	6	747.91	16 μM	Casein	ND	ND	ND	ND	5.19	ND 
+5563	VYPFPG	6	678.79	221 μM	Casein (Beta Casein)	ND	ND	ND	ND	5.49	ND 
+5566	YKVPQL	6	746.9	22 μM	Casein	ND	ND	ND	ND	8.59	ND 
+5577	FGASTRGA	8	766	14.7 μM	Fish (Alaska pollack (Theragra chalcogramma))	ND	GFC, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.7	ND 
+5650	VLAQYK	6	721	23.11 μg/ml	Beef (Biceps femoris)	ND	GFC, UF, RP-HPLC	Cushman and Cheung (1971)	ND	8.75	ND 
+5651	DFHINQ	6	773	50.4 μg/ml	Beef (Biceps femoris)	ND	ND	Cushman and Cheung (1971)	ND	5.36	ND 
+5653	GLSDGEWQ	8	891	117.6 μg/ml	Beef (Biceps femoris)	ND	ND	Cushman and Cheung (1971)	ND	3.78	ND 
+5655	EVMAGNLYPG	10	1050.19	19.34 μg/ml	Blue mussel (Mytilus edulis)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	4.00	ND 
+5656	IKPLNY	6	747	43 μM	Fish (Bonito (Sarda - dried bonito (katsuobusi)))	ND	RP-HPLC, HIC	Cushman and Cheung (1971)	ND	8.75	ND 
+5657	IVGRPRHQG	9	1019	6.2 μM	Fish (Bonito (Sarda - dried bonito (katsuobusi)))	ND	RP-HPLC, HIC	Cushman and Cheung (1971)	ND	12	ND 
+5663	DYGLYP	6	727	62 μM	Fish (Bonito (Sarda - dried bonito (katsuobusi)))	ND	RP-HPLC, HIC	Cushman and Cheung (1971)	ND	3.95	ND 
+5664	DMIPAQK	7	802	45 μM	Fish (Bonito (Sarda - dried bonito (katsuobusi)))	ND	RP-HPLC, HIC	Cushman and Cheung (1971)	ND	5.83	ND 
+5671	SVAKLEK	7	774	82 μM	Fish (Bonito (Sarda bowel))	ND	GFC, IEC, RP-HPLC, HIC	Cushman and Cheung (1971)	ND	8.95	ND 
+5673	GVYPHK	6	700	1.6 μM	Fish (Bonito (Sarda bowel))	ND	GFC, IEC, RP-HPLC, HIC	Cushman and Cheung (1971)	ND	5.42	ND 
+5679	PNRIKYGD	8	962	4 μM	Fish (Bonito (Sarda))	ND	RP-HPLC, AC	ND	ND	8.75	ND 
+5680	HERDPTHIKWGD	12	1491	8 μM	Fish (Bonito (Sarda))	ND	RP-HPLC, AC	ND	ND	6.43	ND 
+5681	FHERDPTHIKWGD	13	1638	2.8 μM	Fish (Bonito (Sarda))	ND	RP-HPLC, AC	ND	ND	6.43	ND 
+5682	TKTGRSAHVLSRYRPRA	17	1956	2.8 μM	Fish (Bonito (Sarda))	ND	RP-HPLC, AC	ND	ND	12	ND 
+5685	RPKHPIKHQ	9	1140	13.4 μM	Cheese	ND	HIC	Cushman and Cheung (1971)	ND	11.6	ND 
+5686	RPKHPIKHQGLPQ	13	1536	ND 	Cheese	ND	HIC	Cushman and Cheung (1971)	ND	11.6	ND 
+5687	YPFPGPIPN	9	1001	14.8 μM	Cheese	ND	HIC	Cushman and Cheung (1971)	ND	5.65	ND 
+5688	MPFPKYPVQPF	11	1351	ND 	Cheese	ND	HIC	Cushman and Cheung (1971)	ND	8.75	ND 
+5689	VPKVKET	7	800	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	8.95	ND 
+5690	LKKISQ	6	716	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	10.8	ND 
+5691	VPKVKE	6	699	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	8.95	ND 
+5692	VRGPFP	6	672	592 μM	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.7	ND 
+5695	KKYNVPQ	7	876	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	10.3	ND 
+5696	VPSERY	6	750	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5698	DVPSERY	7	865	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	4.42	ND 
+5699	REQEEL	6	803	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	4.28	ND 
+5703	TQPKTNAIPY	10	1132	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	8.75	ND 
+5704	DVPSERYLG	9	1035	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	4.42	ND 
+5705	VPSERYL	7	863	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5706	LEIVPK	6	698	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5708	VVAPFPE	7	758	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	4.15	ND 
+5709	KKYNVPQL	8	989	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	10.3	ND 
+5710	GPVRGPFP	8	826	ND 	Cheese (Manchego cheese)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.7	ND 
+5712	GVNGEEGVPG	10	914	ND 	Chicken (Gallus gallus domesticus)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.91	ND 
+5713	GFPGTPGLPGF	11	1046	436 μM	Chicken (Gallus gallus domesticus)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.9	ND 
+5716	RMLGQYPYK	9	1155.38	34 μM	Porcine toroponin C	ND	ND	Cushman and Cheung (1971)	ND	9.70	ND 
+5717	FQKPKR	6	802.97	14 μM	Chicken muscle	ND	ND	Cushman and Cheung (1971)	ND	11.17	ND 
+5747	GPAGAPGAA	9	667.72	37 μM	Gelatin	ND	GFC, IEC, AF , PC	Using the synthetic substrate, benzoyl-Gly-Gly-Gly	ND	5.52	ND 
+5751	IGDEPLANYL	10	1104.22	0.070 mg/ml	Jellyfish Stomolophus nomurai	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.67	ND 
+5752	FGGIDDINQIGQSD	14	1478.53	0.070 mg/ml	Jellyfish Stomolophus nomurai	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.42	ND 
+5753	YYAPFE	6	788.85	0.055 mg/ml	Jellyfish Stomolophus nomurai	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.00	ND 
+5754	VIPAAY	6	633	3.03 μg/ml	Kidney bean (Phaseolus vulgaris L.)	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5755	VHLPPP	6	659	200 μM	Cereals (Maize (Zea mays))	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5761	HLPPPV	6	659	>1000 μM	Cereals (Maize (Zea mays))	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5762	LPPPVH	6	659	>1000 μM	Cereals (Maize (Zea mays))	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5763	PPPVHL	6	659	110 μM	Cereals (Maize (Zea mays))	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5792	LNSPAY	6	664	ND 	Cereals (Maize (Zea mays))	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5795	YSQQQQ	6	781	860 μM	Cereals (Maize (Zea mays))	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5797	LSPQSY	6	694	ND 	Cereals (Maize (Zea mays))	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5816	VLGPVRGPFP	10	1038	137 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.7	ND 
+5817	VVVPPF	6	657	>1500 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5818	LHLPLP	6	689	5.5 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5819	LTQTPVVVPPF	11	1198	>1500 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5820	VRGPFPIIV	9	997	599 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.7	ND 
+5821	LHLPLPL	7	802	425 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5822	LVYPFPGPIPNSLPQNIPP	19	2060	5.2 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5823	VLGPVRGPFPIIV	13	1364	>700 μM	Milk	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.7	ND 
+5824	LHLPLP	6	689	3.7 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5825	LHLPLL	6	705	3.5 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5826	LHLPLR	6	748	1.8 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	9.73	ND 
+5827	LHLPAP	6	647	6 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5828	LHLPYP	6	739	2.3 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5829	LHLPGP	6	633	1.9 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5830	LHLYLP	6	755	18.9 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5831	LHLWLP	6	778	9 μM	Milk (β-casein)	ND	ND	Sentandreu and Toldra (2006)	ND	6.95	ND 
+5832	QKALNEINQF	10	1204	ND 	Milk (bovine α-casein)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5833	TKKTKLTEEEKNRL	14	1718	ND 	Milk (bovine α-casein)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.79	ND 
+5834	FFVAPFPEVFGK	12	1385	18 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5835	TTMPLW	6	748	12 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5836	NMAINPSK	8	874	60 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	9.1	ND 
+5837	ALNEINQFY	9	1111	219 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.15	ND 
+5838	ALNEINQFYQK	11	1368	264 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5839	FPQYLQY	7	958	14 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5840	FALPQY	6	738	4.3 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5841	FALPQYLK	8	979	4.3 μM	Milk (bovine casein)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	8.75	ND 
+5844	AVPYPQR	7	830	15 μM	Milk (bovine casein)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.8	ND 
+5846	FFVAPFPEVFGK	12	1385	77 μM	Milk (bovine casein)	ND	GFC, IEC, TLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5851	FPEVFGK	7	823	140 μM	Milk (bovine casein)	ND	ND	Cushman and Cheung (1971)	ND	5.96	ND 
+5858	ALPMHIR	7	837	42.6 μM	Milk (bovine lactoglobulin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	9.73	ND 
+5861	YIPIQYVLSR	10	1252	ND 	Milk (bovine lactoglobulin)	ND	ND	Cushman and Cheung (1971)	ND	8.64	ND 
+5863	VTSTAV	6	577	ND 	Milk (bovine lactoglobulin)	ND	ND	Cushman and Cheung (1971)	ND	5.65	ND 
+5875	TEDELQDKIHP	11	1324	ND 	Milk (bovine lactoglobulin)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.32	ND 
+5876	EMPFPKYPVEP	11	1334	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.56	ND 
+5877	MPFPKYPVEP	10	1204	83 μM	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.96	ND 
+5878	ELEELNVPGE	10	1128	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.49	ND 
+5879	SQSKVLPVPQ	10	1082	92 μM	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.1	ND 
+5880	EPVLGPVRGPFP	12	1265	790 μM	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.39	ND 
+5881	VPYPQRDMPIQA	12	1415	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.83	ND 
+5882	NVPGEIVESL	10	1056	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.91	ND 
+5883	TTMLIQDEDDLEMA	14	1625	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.39	ND 
+5884	VPPFLQPEV	9	1025	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.15	ND 
+5885	EMPFPKYPVEP	11	1334	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.56	ND 
+5886	SQSKVLPVPQ	10	1082	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.1	ND 
+5887	TQTPVVVPPFIQPE	14	1225	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.15	ND 
+5888	NIPPLTQTPVVVPPFIQPEVMGVSK	25	2688	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.96	ND 
+5889	NIPPLTQTPVVVPPFIQ	17	1860	450 μM	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5890	VVPPFIQPE	9	1025	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.15	ND 
+5891	IASGEPTSTPTEE	13	1318	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.77	ND 
+5892	IGSENSEKTTMP	12	1293	773.10 μM	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.56	ND 
+5893	KHIQKEDVPSER	12	1466	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.96	ND 
+5894	IASGEPTSTPT	11	1060	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.74	ND 
+5895	IQKEDVPSER	10	1200	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	4.68	ND 
+5896	IASGEPTSTPTTEA	14	1361	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.91	ND 
+5897	LSKDIGSESTEDQAMED	17	1855	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.74	ND 
+5898	IVPNSVEQKH	10	1150	ND 	Milk (bovine sodium caseinate)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5899	GLDIQK	6	673	580 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.83	ND 
+5900	LAHKAL	6	652	621 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	9.13	ND 
+5901	VAGTWY	6	696	1682 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5902	AVPYPQR	7	830	274 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	8.8	ND 
+5903	EMPFPK	6	734	423 μg/ml	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.83	ND 
+5904	YQQPVL	6	747	280 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5905	DAYPSGAW	8	866	98 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	3.95	ND 
+5906	TTMPLW	6	748	51 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5907	LAYFYP	6	773	65 μM	Milk (bovine)	ND	GFC, RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5911	QSLVYP	6	706	41 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5912	TQSLVYP	7	807	64 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5913	QTQSLVYP	8	935	73 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5914	AQTQSLVYP	9	1006	76 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5915	FAQTQSLVYP	10	1153	25 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5916	PFAQTQSLVYP	11	1250	ND 	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	3.9	ND 
+5917	HPFAQTQSLVYP	12	1388	26 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+5918	IHPFAQTQSLVYP	13	1501	19 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+5919	KIHPFAQTQSLVYP	14	1629	39 μM	Milk (bovine, buffalo and ovine β-casein)	ND	ND	Kasahara and Ashihara (1981)	ND	8.78	ND 
+5922	VEELKP	6	714	ND 	Milk (caprine lactoglobulin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.56	ND 
+5924	LKPTPEGN	8	855	>2700 μM	Milk (caprine lactoglobulin)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5928	LEIVPK	6	698	>1000 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.96	ND 
+5929	DKIHPF	6	756	>1000 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.95	ND 
+5930	KIHPFAQAQ	9	1039	132.6 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.13	ND 
+5931	QLLKLK	6	742	342.4 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	10.8	ND 
+5932	LNVVGETVE	9	959	>1000 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.91	ND 
+5933	GVPKVKETMVPK	12	1313	376.1 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	10.5	ND 
+5934	GVPKVKETMVPKH	13	1450	223.2 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	10.5	ND 
+5936	GPFPILV	7	742	424 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5937	KFAWPQ	6	776	177.1 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.1	ND 
+5938	TGPIPNSLPQ	10	1023	>1000 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5941	ENLLRF	6	791	82.4 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.96	ND 
+5942	PYVRYL	6	810	2.4 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	8.64	ND 
+5943	LVYPFTGPIPN	11	1217	27.9 μM	Milk (caprine kefir)	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+5945	VYPFPG	6	679	221 μM	Milk (cheese whey)	ND	GFC, RP-HPLC, HIC	ND	ND	5.65	ND 
+5950	TPVVVPPFLQP	11	1194	749 μM	Milk (cheese whey)	ND	GFC, RP-HPLC, HIC	ND	ND	5.65	ND 
+5951	LNVPGEIVE	9	969	300.1 μM/L	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.91	ND 
+5952	NIPPLTQTPV	10	1079	173.3 μM/L	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5953	IPPLTQTPV	9	965	ND 	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5954	PPLTQTPV	8	852	ND 	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5955	LNVPGEIVE	9	969	ND 	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.91	ND 
+5956	NVPGEIVE	8	856	ND 	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.91	ND 
+5957	DKIHPF	6	756	256.8 μM/L	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	6.95	ND 
+5958	KVLPVPE	7	781	ND 	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.96	ND 
+5959	VIGSPPEIN	9	925	>1000 μM/L	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.15	ND 
+5960	SPPEIN	6	656	ND 	Milk (fermented milk)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.15	ND 
+5961	TGPIPN	6	598	316 μM	Milk (goat)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+5964	TDQHQDKIYP	10	1244	380 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.46	ND 
+5969	QPLIYP	6	730	3.6 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5970	PQPLIYP	7	827	3 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5971	QPQPLIYP	8	955	4 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5972	FQPQPLIYP	9	1102	1.8 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5973	SFQPQPLIYP	10	1189	1.4 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5974	PSFQPQPLIYP	11	1287	2.7 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5975	YPSFQPQPLIYP	12	1450	4.8 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5976	IYPSFQPQPLIYP	13	1563	7.6 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5977	KIYPSFQPQPLIYP	14	1691	8.6 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	8.62	ND 
+5978	DKIYPSFQPQPLIYP	15	1806	107 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.83	ND 
+5979	FVEPIP	6	701	>1000 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	4.15	ND 
+5980	YGFLPILP	8	919	260 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	3.9	ND 
+5981	EPIPYGFLP	9	1032	180 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	4.15	ND 
+5985	PQNILP	6	681	440 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5986	LPQNILP	7	794	46 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5987	PAVVLP	6	595	45 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+5992	TVYTKGRVMP	10	1151	38 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	10.5	ND 
+5993	PFFDPQIP	8	960	410 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	3.95	ND 
+5996	ENLHLP	6	722	>1000 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.49	ND 
+5997	LENLHLP	7	835	>1000 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.49	ND 
+5998	LTDLENLHLP	10	1164	>1000 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	4.41	ND 
+6002	LHLPLP	6	689	2.9 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6003	NLHLPLP	7	803	51 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6004	ENLHLPLP	8	932	155 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.49	ND 
+6005	LENLHLPLP	9	1045	86 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.49	ND 
+6008	VPQPIP	6	650	290 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+6009	QVPQPIP	7	778	660 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	3.9	ND 
+6010	PQTLALP	7	739	110 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+6014	VLPIPQ	6	666	5300 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+6018	PQEVLP	6	682	910 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	4.15	ND 
+6019	IPQEVLP	7	795	690 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	4.15	ND 
+6021	VLPYPV	6	687	420 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	5.65	ND 
+6022	PVRAVP	6	638	170 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	9.7	ND 
+6024	PVQALLLNQELLLNP	15	1675	ND 	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	4.15	ND 
+6026	PHQIYP	6	754	30 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6027	PPHQIYP	7	851	22 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6028	NPPHQIYP	8	965	37 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6029	LNPPHQIYP	9	1078	25 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6030	LLNPPHQIYP	10	1191	9.6 μM	Milk (human β casein)	ND	ND	Kasahara and Ashihara (1981)	ND	6.95	ND 
+6038	PAVVRP	6	638	18 μM	Milk (human casein)	ND	ND	Kasahara and Ashihara (1981)	ND	9.7	ND 
+6039	NPAVVRP	7	752	19 μM	Milk (human casein)	ND	ND	Kasahara and Ashihara (1981)	ND	9.7	ND 
+6040	ANPAVVRP	8	823	25 μM	Milk (human casein)	ND	ND	Kasahara and Ashihara (1981)	ND	9.7	ND 
+6041	YANPAVVRP	9	986	7.8 μM	Milk (human casein)	ND	ND	Kasahara and Ashihara (1981)	ND	9.8	ND 
+6055	AVPYPQ	6	674	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	5.65	ND 
+6056	RPKHPI	6	747	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	11.4	ND 
+6057	YQEPVL	6	748	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	4.15	ND 
+6058	DKIHPF	6	756	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	6.95	ND 
+6059	KVLPVPQ	7	780	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	9.1	ND 
+6060	KAVPYPQ	7	802	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	8.75	ND 
+6061	SKVLPVPQ	8	867	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	9.1	ND 
+6062	RDMPIQAF	8	977	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	5.83	ND 
+6063	YPFPGPIPN	9	1001	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	5.65	ND 
+6064	MKPWIQPK	8	1027	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	10.8	ND 
+6065	RPKHPIKHQ	9	1140	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	11.6	ND 
+6066	HKEMPFPKYPVEPF	14	1746	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	6.96	ND 
+6067	YQEPVLGPVRGPFPIIV	17	1881	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	5.96	ND 
+6068	LHLPLPLL	8	915	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	6.95	ND 
+6069	NLHLPLPLL	9	1029	15 μM	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	6.95	ND 
+6070	VENLHLPLPL	10	1144	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	5.49	ND 
+6071	DVENLHLPLPLLQSW	15	1774	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	4.41	ND 
+6072	KYPVEPFTESQSLTLTDVENLHL	23	2661	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	4.41	ND 
+6073	FVAPFPEVFGKEKVNELSKDIGS	23	2538	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	4.85	ND 
+6074	NENLLRFFVAPFPE	14	1693	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	4.56	ND 
+6075	LGPVRGPFPI	10	1052	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	9.7	ND 
+6076	QKAVPYPQRDMPI	13	1543	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	8.75	ND 
+6077	LPQYLKTVYQHQKA	14	1717	ND 	Milk (Sodium caseinate)	ND	GFC, RP-HPLC	Holmquist et al. (1979)	ND	9.97	ND 
+6078	LVYPFPGPIPNSLPQNIPP	19	2060	ND 	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+6079	FVAPFPEVFGKEKVNELSKDIGSE	24	2667	ND 	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	4.57	ND 
+6080	LGTQYTDAPSFSDIPNPIGSENSEK	25	2668	ND 	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	3.95	ND 
+6081	RPKHPI	6	747	40.3 μM	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	11.4	ND 
+6086	LVYPFPGP	8	889	ND 	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+6087	TVDQHQ	6	727	183.5 μM	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.36	ND 
+6088	LVYPFPGPI	9	1002	ND 	Milk (Sodium caseinate)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.65	ND 
+6096	VTPALR	6	656	82.4 μM	Legume (Mung bean (Phaseolus radiatus L.))	ND	GFC, RP-HPLC, HIC	Li et al (2005)	ND	9.7	ND 
+6097	KLPAGTLF	8	846	13.4 μM	Legume (Mung bean (Phaseolus radiatus L.))	ND	GFC, RP-HPLC, HIC	Li et al (2005)	ND	9.1	ND 
+6099	TIIPLPV	7	751.48	ND 	Soybean (OKara protein of soybean Glycine max)	ND	UF	Cushman and Cheung (1971)	ND	5.19	ND 
+6103	CVTPALR	7	759	26.84 μg/ml	Legume (Peanut (Arachis hypogaea))	ND	ND	Cushman and Cheung (1971)	ND	8.32	ND 
+6104	PANIKWGD	8	900	21 μM	Pork (Sus domesticus muscle)	ND	RP-HPLC	Cushman and Cheung (1971)	ND	5.83	ND 
+6105	VKKVLGNP	8	854	28.5 μM	Pork (Sus domesticus skeletal muscle myosin)	ND	GFC, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	10.8	ND 
+6106	EKERERQ	7	974	552.5 μM	Pork (Sus domesticus skeletal muscle troponin)	ND	GFC, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	6.17	ND 
+6107	KRQKYDI	7	950	26.2 μM	Pork (Sus domesticus skeletal muscle troponin)	ND	GFC, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	10.3	ND 
+6128	MYPGIA	6	651	641.02 μM	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.65	ND 
+6131	RVAPEEHPT	9	1035	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.62	ND 
+6132	VAPEEHPT	8	879	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	4.55	ND 
+6133	LFDKPVSPL	9	1015	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.83	ND 
+6134	FDKPVSPL	8	902	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.83	ND 
+6135	ITTNPY	6	708	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.65	ND 
+6136	MLGQTPT	7	747	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.65	ND 
+6137	DQVFPMNPPK	10	1172	ND 	Pork (Sus domesticus)	ND	RP-HPLC	Sentandreu and Toldra (2006)	ND	5.83	ND 
+6184	MEGAQEAQGD	10	1035	15.9 μM	Sea-cucumber (Acaudina molpadioidea)	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	3.67	ND 
+6196	FCVLRP	6	734	12.3 μM	Shrimp (Acetes chinensis)	ND	GFC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	8.32	ND 
+6197	IFVPAF	6	693	3.4 μM	Shrimp (Acetes chinensis)	ND	GFC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+6198	KPPETV	6	670	24.1 μM	Shrimp (Acetes chinensis)	ND	GFC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.96	ND 
+6202	WSKVVL	6	731	156.28 μM	Fish (Skipjack tuna (Katsuwonus pelamis-Indonesian dried salted fish))	ND	GFC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	9.1	ND 
+6204	CWLPVY	6	780	22.20 μM	Fish (Skipjack tuna (Katsuwonus pelamis-Indonesian dried salted fish))	ND	GFC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+6205	VGLPIF	6	645	25.26 μg/ml	Small red bean (Vigna angularis)	ND	GFC, IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+6221	LAIPVNKP	8	851	70 μM	Soybean (Glycine max)	ND	IEC, RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.8	ND 
+6227	IAYKPAG	7	719	4.2 μM	Spinach (Spinacia oleracea)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	8.75	ND 
+6230	LRIPVA	6	668	0.38 μM	Spinach (Spinacia oleracea)	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	9.7	ND 
+6231	YALPHA	6	671	9.8 μM	Squid (Todarodes pacificus)	ND	RP-HPLC, UF, HIC	Hayakari et al. (1978)	ND	6.95	ND 
+6232	GYALPHA	7	728	27.3 μM	Squid (Todarodes pacificus)	ND	RP-HPLC, UF, HIC	Hayakari et al. (1978)	ND	5.33	ND 
+6233	FVNPQAGS	8	819	6.9 μM	Sunflower (Helianthus annuus L.)	ND	GFC, RP-HPLC	Hayakari et al. (1978)	ND	5.65	ND 
+6234	PTHIKWG	7	838	7.6 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	9.13	ND 
+6235	PTHIKW	6	781	1.8 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	6.95	ND 
+6237	THIKWGD	7	865	50 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	6.95	ND 
+6238	HIKWGD	6	755	50 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	5.44	ND 
+6242	PTHIKWD	7	896	38 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	6.95	ND 
+6244	PTHIDW	6	768	13 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	5.36	ND 
+6245	PTHIAW	6	724	0.39 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	6.95	ND 
+6246	PTHKAW	6	739	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	9.13	ND 
+6247	PTHDAW	6	726	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	3.92	ND 
+6248	PTHGAW	6	668	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	6.95	ND 
+6249	PTHVAW	6	710	1.5 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	5.33	ND 
+6250	PTFIAW	6	734	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	5.65	ND 
+6251	PAHIAW	6	694	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	6.95	ND 
+6252	PDHIAW	6	738	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	5.36	ND 
+6253	PCHIAW	6	726	>100 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	ND	Cushman and Cheung (1971)	ND	5.33	ND 
+6254	PTHIKWGD	8	953	1 μM	Fish (Tuna (Neothunnus macropterus muscle))	ND	GFC, IEC, RP-HPLC, HIC	Cushman and Cheung (1971)	ND	6.95	ND 
+6255	WPEAAELMMEVDP	13	1518	21.6 μM	Fish (Tuna (Thunnus obesus))	ND	IEC, RP-HPLC	Cushman and Cheung (1971)	ND	3.21	ND 
+6284	VPFGVG	6	575	336 μM	Fish (Wheat (Triticum sp sour dough))	ND	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.65	ND 
+6285	MIFPGAGGPEL	11	1088	28.7 μg/ml	Fish (Yellowfin sole (Limanda aspera))	ND	GFC, IEC, RP-HPLC	Cushman and Cheung (1971)	ND	4.15	ND 
+6288	TVYTKGRVMP	10	1151.38	38 μM	Human (Human Beta Casein)	ND	ND	ND	ND	9.99	ND 
+6290	PAVVLP	6	594.739	45 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.96	ND 
+6292	PQNILP	6	680.789	440 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.96	ND 
+6293	LPQNILP	7	793.949	46 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6295	EPIPYGFLP	9	1032.19	180 μM	Human (Human Beta Casein)	ND	ND	ND	ND	4.00	ND 
+6299	QPLIYP	6	729.855	3.6 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6300	PQPLIYP	7	826.972	3 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.95	ND 
+6301	QPQPLIYP	8	955.103	4 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6302	FQPQPLIYP	9	1102.28	1.8 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6303	PSFQPQPLIYP	11	1286.48	2.7 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.95	ND 
+6305	YPSFQPQPLIYP	12	1449.65	4.8 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6306	IYPSFQPQPLIYP	13	1562.81	7.6 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6307	KIYPSFQPQPLIYP	14	1690.98	8.6 μM	Human (Human Beta Casein)	ND	ND	ND	ND	8.50	ND 
+6308	DKIYPSFQPQPLIYP	15	1806.07	107 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.83	ND 
+6310	PVRAVP	6	637.767	170 μM	Human (Human Beta Casein)	ND	ND	ND	ND	10.18	ND 
+6311	TDQHQDKIYP	10	1244.31	380 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.18	ND 
+6313	PHQIYP	6	753.837	30 μM	Human (Human Beta Casein)	ND	ND	ND	ND	7.17	ND 
+6314	NPPHQIYP	8	965.058	37 μM	Human (Human Beta Casein)	ND	ND	ND	ND	6.74	ND 
+6315	VLPYPV	6	686.83	420 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.49	ND 
+6318	PQEVLP	6	681.774	910 μM	Human (Human Beta Casein)	ND	ND	ND	ND	4.00	ND 
+6319	IPQEVLP	7	794.934	690 μM	Human (Human Beta Casein)	ND	ND	ND	ND	4.00	ND 
+6320	VLPIPQ	6	665.818	5300 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.49	ND 
+6322	PQTLALP	7	738.869	110 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.96	ND 
+6325	VPQPIP	6	649.775	290 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.49	ND 
+6326	QVPQPIP	7	777.906	660 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.52	ND 
+6330	LHLPLP	6	688.856	2.9 μM	Human (Human Beta Casein)	ND	ND	ND	ND	6.74	ND 
+6332	NLHLPLP	7	802.96	51 μM	Human (Human Beta Casein)	ND	ND	ND	ND	6.74	ND 
+6334	ENLHLPLP	8	932.076	155 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.24	ND 
+6335	LENLHLPLP	9	1045.24	86 μM	Human (Human Beta Casein)	ND	ND	ND	ND	5.24	ND 
+6336	ALKAWSVAR	9	1001.18	3 μM	Whey protein	ND	ND	ND	ND	11.00	ND 
+6341	IVGRPRHQG	9	1019.16	2.4 μM	Fish (Dried bonito)	ND	ND	ND	ND	12.00	ND 
+6342	DMIPAQK	7	801.948	45 μM	Fish (Dried bonito)	ND	ND	ND	ND	5.84	ND 
+6343	IKPLNY	6	746.885	43 μM	Fish (Dried bonito)	ND	ND	ND	ND	8.59	ND 
+6344	DYGLYP	6	726.758	62 μM	Fish (Dried bonito)	ND	ND	ND	ND	3.80	ND 
+6347	GYALPHA	7	727.799	27.3 μM	Squid liver and mantle muscle	ND	ND	ND	ND	6.74	ND 
+6348	YALPHA	6	670.747	9.8 μM	Squid liver and mantle muscle	ND	ND	ND	ND	6.74	ND 
+6351	FQKVVAG	7	747.879	7.4 μM	Hemoglobulin	ND	ND	ND	ND	8.75	ND 
+6352	FQKVVAK	7	819.001	2.1 μM	Hemoglobulin	ND	ND	ND	ND	10.00	ND 
+6353	GKKVLQ	6	671.824	1.9 μM	Hemoglobulin	ND	ND	ND	ND	10.00	ND 
+6354	FQKVVA	6	690.827	5.8 μM	Hemoglobulin	ND	ND	ND	ND	8.75	ND 
+6376	FPFEVFGK	8	970.123	0 μM	Casein	ND	ND	ND	ND	6.00	ND 
+6377	FALPQYLK	8	979.168	4.3 μM	ND	ND	ND	ND	ND	8.59	ND 
+6379	MKPWIQPK	8	1027.28	300 μM	ND	ND	ND	ND	ND	10.00	ND 
+6380	LVVYPWTQR	9	1161.35	0 μM	Hemoglobulin	ND	ND	ND	ND	8.75	ND 
+6381	YPWTQR	6	849.924	0 μM	Hemoglobulin	ND	ND	ND	ND	8.75	ND 
+6383	YANPAVVRP	9	986.12	7.8 μM	Casein (Beta Casein)	ND	ND	ND	ND	8.75	ND 
+6386	PFFDPQIP	8	960.085	0 μM	Casein (Beta Casein)	ND	ND	ND	ND	3.80	ND 
+6387	LLNPPHQIYP	10	1191.38	0 μM	Casein (Beta Casein)	ND	ND	ND	ND	6.74	ND 
+6389	PPHQIYP	7	850.954	0 μM	Casein (Beta Casein)	ND	ND	ND	ND	7.17	ND 
+6391	LNPPHQIYP	9	1078.22	0 μM	Casein (Beta Casein)	ND	ND	ND	ND	6.74	ND 
+6392	PANIKWGD	8	899.988	21 μM	Casein (Beta Casein)	ND	ND	ND	ND	6.26	ND 
+6393	PSKIKWGD	8	930.059	68 μM	Casein (Beta Casein)	ND	ND	ND	ND	9.01	ND 
+6394	PTHIKWGD	8	953.052	1.5 μM	Fish (Tuna muscle)	ND	ND	ND	ND	7.17	ND 
+6396	SAYPGQITSN	10	1037.08	0 μM	Milk (Fermented Milk)	ND	ND	ND	ND	5.24	ND 
+6397	QVSLNSGYY	9	1030.08	0 μM	Milk (Fermented Milk)	ND	ND	ND	ND	5.52	ND 
+6398	NRVYVHPF	8	1031.16	0 μM	Rabbit lung	ND	ND	ND	ND	8.75	ND 
+6400	AVPYPQR	7	829.935	15 μM	Fig (Ficus carica)	ND	ND	ND	ND	8.79	ND 
+6401	SFQPQPLIYP	10	1189.36	1.4 μM	Beta Casein	ND	ND	ND	ND	5.24	ND 
+6402	GKKIATYQER	10	1193.35	2 μM	Baker's yeast	ND	ND	ND	ND	9.70	ND 
+6403	GHKIATFQER	10	1186.32	0.4 μM	Baker's yeast	ND	ND	ND	ND	8.75	ND 
+6404	PANLPWGSSNV	11	1141.24	18 μM	Baker's yeast	ND	ND	ND	ND	5.96	ND 
+6414	YIPIQYVLSR	10	1251.47	132.5 μM	A-casein	ND	ND	ND	ND	8.59	ND 
+6415	FFVAPFPFEVFGK	13	1531.81	77 μM	Casein	ND	ND	ND	ND	6.00	ND 
+6417	KVLPVPQ	7	779.965	1000 μM	Casein	ND	ND	ND	ND	8.75	ND 
+6418	SKVLPVPE	8	868.03	0 μM	Casein hydrolysate	ND	ND	ND	ND	5.72	ND 
+6419	YKVPQL	6	746.885	22 μM	Casein hydrolysate	ND	ND	ND	ND	8.59	ND 
+6420	AYFYPE	6	788.829	106 μM	Casein	ND	ND	ND	ND	4.00	ND 
+6422	TPVVVPPFLQP	11	1193.44	749 μM	Whey protein	ND	ND	ND	ND	5.19	ND 
+6423	VYPFPG	6	678.766	221 μM	Whey protein	ND	ND	ND	ND	5.49	ND 
+6427	GLDIQK	6	672.766	580 μM	Bovine milk protein	ND	ND	ND	ND	5.84	ND 
+6428	VAGTWY	6	695.752	1682 μM	Bovine milk protein	ND	ND	ND	ND	5.49	ND 
+6429	YQQPVL	6	746.842	280 μM	Bovine milk protein	ND	ND	ND	ND	5.52	ND 
+6430	EMPFPK	6	747.899	423 μM	Bovine milk protein	ND	ND	ND	ND	6.10	ND 
+6431	DAYPSGAW	8	865.879	98 μM	Bovine milk protein	ND	ND	ND	ND	3.80	ND 
+6432	LAYFYP	6	772.873	65 μM	Bovine milk protein	ND	ND	ND	ND	5.52	ND 
+6433	LAHKAL	6	651.794	621 μM	Bovine milk protein	ND	ND	ND	ND	8.76	ND 
+6436	PPPVHL	6	658.786	0 μM	Cereals (Maize endosperm)	ND	ND	ND	ND	7.17	ND 
+6445	VHLPPP	6	658.786	200 μM	Cereals (Maize endosperm)	ND	ND	ND	ND	6.71	ND 
+6447	AVNPIR	6	668.781	13 μM	Cereals (Maize endosperm)	ND	ND	ND	ND	9.79	ND 
+6448	TTMPLW	6	747.898	16 μM	Cereals (Maize endosperm)	ND	ND	ND	ND	5.19	ND 
+6479	VGINYWLAHK	10	1200.39	327 μM	Whey protein	ND	ND	ND	ND	8.57	ND 
+6481	YGLVAGTW	8	865.964	0 μM	Whey protein	ND	ND	ND	ND	5.52	ND 
+6484	LDAQSAPLR	9	970.083	635 μM	Whey protein	ND	ND	ND	ND	5.84	ND 
+6485	CMENSA	6	670.577	788 μM	Whey protein	ND	ND	ND	ND	4.00	ND 
+6486	VLDTDYK	7	852.92	946 μM	Whey protein	ND	ND	ND	ND	4.21	ND 
+6492	FALPQY	6	737.834	4.3 μM	Milk	ND	ND	ND	ND	5.52	ND 
+6493	VTSTAV	6	576.635	52 μM	Milk	ND	ND	ND	ND	5.49	ND 
+6494	RPKHPIKHQ	9	1140.34	13 μM	Milk	ND	ND	ND	ND	11.17	ND 
+6495	AMPKPW	6	728.898	580 μM	Milk	ND	ND	ND	ND	8.80	ND 
+6497	YPFPGPIPN	9	1001.13	15 μM	Milk	ND	ND	ND	ND	5.52	ND 
+6498	KVLPVP	6	651.834	5 μM	Casein hydrolysate	ND	ND	ND	ND	8.75	ND 
+6502	VYPFPGPI	8	889.043	500 μM	Whey protein hydrolysate	ND	ND	ND	ND	5.49	ND 
+6503	DKIHPF	6	755.859	257 μM	Whey protein hydrolysate	ND	ND	ND	ND	6.74	ND 
+6504	LNVPGEIVE	9	969.091	300 μM	Whey protein hydrolysate	ND	ND	ND	ND	3.79	ND 
+6505	NIPPLTQTPV	10	1079.25	173 μM	Whey protein hydrolysate	ND	ND	ND	ND	5.52	ND 
+6506	FPEVFGK	7	822.946	140 μM	Whey protein hydrolysate	ND	ND	ND	ND	6.00	ND 
+6507	AMKPWIQPK	9	1098.36	600 μM	Whey protein hydrolysate	ND	ND	ND	ND	10.00	ND 
+6510	SLVLPVPE	8	853.016	39 μM	Casein	ND	ND	ND	ND	4.00	ND 
+6511	YPFPGPIP	8	887.027	500 μM	Casein	ND	ND	ND	ND	5.52	ND 
+6512	EMPFPK	6	747.899	423 μM	Bovine milk protein	ND	ND	ND	ND	6.10	ND 
+6515	SKVYPFPGPI	10	1104.3	1.7 μM	Milk and colostrum	ND	ND	ND	ND	8.31	ND 
+6524	NWGPLV	6	684.779	21 μM	Soybean	ND	ND	ND	ND	5.52	ND 
+6525	VKKVLGNP	8	854.047	28.5 μM	Porcine skeletal muscle	ND	ND	ND	ND	10.00	ND 
+6526	RMLGQTPWK	9	1116.34	34 μM	Porcine skeletal muscle	ND	ND	ND	ND	11.00	ND 
+6539	CWLPVY	6	796.793	22.2 μM	Fish (Alaska pollack (Theragra chalcogramma))	ND	ND	ND	ND	5.52	ND 
+6541	PGTAVFK	7	718.837	26.5 μM	Soybean (Soy bioactive)	ND	ND	ND	ND	9.18	ND 
+6543	YPLDLF	6	766.873	24.4 μM	Soybean (Soy bioactive)	ND	ND	ND	ND	3.80	ND 
+6549	YLAGNQ	6	664.696	14 μM	Soybean (Soy bioactive)	ND	ND	ND	ND	5.52	ND 
+6550	LVYPFPGPIPNSLPQNIPP	19	2060.41	5.3 μM	Milk (Fermented Milk)	ND	ND	ND	ND	5.52	ND 
+6551	LHLPLPL	7	802.016	432.7 μM	Milk (Fermented Milk)	ND	ND	ND	ND	6.74	ND 
+6552	VRGPFPIIV	9	997.237	630 μM	Milk (Fermented Milk)	ND	ND	ND	ND	9.72	ND 
+6553	KVREGTTY	8	953.043	102.8 μM	Egg (Hen ovotransferrin)	ND	ND	ND	ND	8.59	ND 
+6554	KVREGT	6	688.768	9.1 μM	Egg (Hen ovotransferrin)	ND	ND	ND	ND	8.75	ND 
+6559	RMLGNTPTK	9	1017.2	0 μM	Meat products	ND	ND	ND	ND	11.00	ND 
+6560	VLAQYK	6	720.847	0 μM	Meat products	ND	ND	ND	ND	8.56	ND 
+6561	FQKPKR	6	802.961	14 μM	Food-protein	ND	ND	ND	ND	11.17	ND 
+6562	IVGRRRHQG	9	1078.23	2.4 μM	Food-protein	ND	ND	ND	ND	12.30	ND 
+6563	FKGRYYP	7	930.048	0.55 μM	Food-protein	ND	ND	ND	ND	9.70	ND 
+6564	WSVPQPK	7	840.965	21 μM	Human milk	ND	ND	ND	ND	8.75	ND 
+6616	EKDERF	6	822.86	14.3 μM	Milk (Ovine milk product)	ND	ND	ND	ND	4.68	ND 
+6617	YIPIQY	6	795.908	10 μM	Milk (Ovine milk product)	ND	ND	ND	ND	5.52	ND 
+6645	FPQYLQY	7	958.056	14 μM	ND	ND	ND	ND	ND	5.52	ND 
+6648	YQEPVL	6	747.827	280 μM	ND	ND	ND	ND	ND	4.00	ND 
+6649	YQEPVLQPVR	10	1228.4	300 μM	ND	ND	ND	ND	ND	6.00	ND 
+6650	YAEERYPIL	9	1153.28	4.7 μM	Egg white proteins	ND	ND	ND	ND	4.53	ND 
+6651	YPFPGPI	7	789.91	500 μM	ND	ND	ND	ND	ND	5.52	ND 
+6652	LLYQQPV	7	860.002	1001 μM	ND	ND	ND	ND	ND	5.52	ND 
+6658	SSIQSQPQAFT	11	1193.27	1001 μM	ND	ND	ND	ND	ND	5.24	ND 
+6659	HSSIQSQPQAFT	12	1330.41	1001 μM	ND	ND	ND	ND	ND	6.74	ND 
+6660	VHSSIQSQPQAFT	13	1429.55	1001 μM	ND	ND	ND	ND	ND	6.71	ND 
+6661	KVHSSIQSQPQAFT	14	1557.72	1001 μM	ND	ND	ND	ND	ND	8.76	ND 
+6662	HSGIQSEPKAIP	12	1263.41	1001 μM	ND	ND	ND	ND	ND	6.75	ND 
+6663	KFHSGIQSEPKAIP	14	1538.76	1001 μM	ND	ND	ND	ND	ND	8.60	ND 
+6672	FFGRCVSP	8	928.924	0.4 μM	ND	ND	ND	ND	ND	8.25	ND 
+6673	ERKIKVYL	8	1048.28	1.2 μM	ND	ND	ND	ND	ND	9.70	ND 
+6674	FGRCVSP	7	781.747	6.2 μM	ND	ND	ND	ND	ND	8.25	ND 
+6675	NIFYCP	6	772.728	15 μM	ND	ND	ND	ND	ND	5.52	ND 
+6685	KKIATYQER	9	1136.3	2 μM	ND	ND	ND	ND	ND	9.70	ND 
+6686	YLYEIAR	7	927.043	16 μM	ND	ND	ND	ND	ND	6.00	ND 
+6687	YLYEIARR	8	1083.23	86 μM	ND	ND	ND	ND	ND	8.59	ND 
+6688	YLYEIA	6	770.855	500 μM	ND	ND	ND	ND	ND	4.00	ND 
+6692	GAAELPCSADWW	12	1322.28	0.95 μM	Bulfrog (Rana catesbeiana Shaw) muscle protein	ND	ND	ND	ND	3.67	ND 
+6693	RMLGQTPTK	9	1031.23	34 μM	Porcine troponin	ND	ND	ND	ND	11.00	ND 
+6695	FGASTRGA	8	765.812	14.7 μM	Bulfrog (Rana catesbeiana Shaw) muscle protein	ND	ND	ND	ND	9.75	ND 
+6696	MIFPGGPQL	9	959.164	22.3 μM	Bulfrog (Rana catesbeiana Shaw) muscle protein	ND	ND	ND	ND	5.28	ND 
+6704	FFVAPFPEVFGK	12	1384.63	18 μM	Bovine alpha s2-casein	ND	ND	ND	ND	6.00	ND 
+6705	NMAINPSK	8	874.016	60 μM	ND	ND	ND	ND	ND	8.75	ND 
+6707	ALNEINQFY	9	1111.2	219 μM	ND	ND	ND	ND	ND	4.00	ND 
+6708	ALNEINQFYQK	11	1367.51	264 μM	ND	ND	ND	ND	ND	6.05	ND 
+6715	EVMAGNYLPG	10	1050.18	2.98 μM	ND	ND	ND	ND	ND	4.00	ND 
+6716	MIFPGAGGPEL	11	1088.28	0.03 μM	ND	ND	ND	ND	ND	4.00	ND 
+6721	VIEKYP	6	747.87	0.1 μM	ND	ND	ND	ND	ND	5.97	ND 
+6728	PSGQYY	6	713.72	100 μM	ND	ND	ND	ND	ND	5.95	ND 
+6750	LTLTDVE	7	789.868	0 0	ND	ND	ND	ND	ND	3.67	ND 
+6751	YPQRDMPIQ	9	1147.3	0 0	ND	ND	ND	ND	ND	5.84	ND 
+6753	PKHKEMPFPPKYPVEPFT	18	2169.56	0 0	ND	ND	ND	ND	ND	8.83	ND 
+6754	GPFPIIV	7	741.916	0 0	ND	ND	ND	ND	ND	5.52	ND 
+6755	RGPFPIIV	8	898.104	0 0	ND	ND	ND	ND	ND	9.75	ND 
+6756	GPVRGPFPII	10	1052.27	0 0	ND	ND	ND	ND	ND	9.75	ND 
+6762	MYPGIA	6	650.776	641.02 μM	Pork meat	ND	ND	ND	ND	5.27	ND 
+6768	GPLGLLGFLGPLGLS	15	1410.71	90.03 μM	Squid gelatin hydrolysate	ND	ND	ND	ND	5.52	ND 
+6769	PGPLGLTGP	9	807.932	95 μM	Fish (Skate skin hydrolysate)	ND	ND	ND	ND	5.96	ND 
+6770	QLGFLGPR	8	887.037	148 μM	Fish (Skate skin hydrolysate)	ND	ND	ND	ND	9.75	ND 
+6772	MNVKHWPWMK	10	1356.67	228 μM	Chicken (Boneless chicken leg meat)	ND	ND	ND	ND	10.00	ND 
+6773	VTVNPYKWLP	10	1216.43	5.5 μM	Chicken (Boneless chicken leg meat)	ND	ND	ND	ND	8.56	ND 
+6774	RMLGQTP	7	801.951	503 μM	Porcine troponin	ND	ND	ND	ND	9.75	ND 
+6775	EKERERQ	7	974.029	552.5 μM	Porcine skeletal muscle troponin	ND	ND	ND	ND	6.33	ND 
+6776	KRQKYDI	7	950.086	26.2 μM	Porcine skeletal muscle troponin	ND	ND	ND	ND	9.70	ND 
+6777	KVLILA	6	655.866	20.85 μM	Milk casein	ND	ND	ND	ND	8.75	ND 
+6780	VYNEGLPAP	9	959.048	3.1 μM	Red deer plasma	ND	ND	ND	ND	4.00	ND 
+6781	MVGSAPGVL	9	829	3.09 μM	Fish (Skin gelatin of skate (Okamejei kenojei))	ND	ND	ND	ND	5.28	ND 
+6782	LGPLGHQ	7	720	4.22 μM	Fish (Skin gelatin of skate (Okamejei kenojei))	ND	ND	ND	ND	6.74	ND 
+6788	LHLPLP	6	688.87	2.9 μM	Milk	ND	RP-HPLC, TLC, FAB-MS	ND	ND	6.74	ND 
+6789	TDQHQDKIYP	10	1244.33	380 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.18	ND 
+6794	QPLIYP	6	729.87	3.6 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6795	PQPLIYP	7	826.99	3 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.95	ND 
+6796	QPQPLIYP	8	955.12	4 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6797	FQPQPLIYP	9	1102.3	1.8 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6798	SFQPQPLIYP	10	1189.38	1.4 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.24	ND 
+6799	PSFQPQPLIYP	11	1286.49	2.7 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.95	ND 
+6800	YPSFQPQPLIYP	12	1449.67	4.8 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6801	IYPSFQPQPLIYP	13	1562.83	7.6 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6802	KIYPSFQPQPLIYP	14	1691	8.6 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	8.50	ND 
+6803	DKIYPSFQPQPLIYP	15	1806.09	107 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.83	ND 
+6804	FVEPIP	6	700.83	>1000 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	4.00	ND 
+6806	EPIPYGFLP	9	1032.2	180 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	4.00	ND 
+6810	PQNILP	6	680.8	440 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.96	ND 
+6811	LPQNILP	7	793.96	46 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6812	PAVVLP	6	594.75	45 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.96	ND 
+6817	TVYTKGRVMP	10	1151.39	38 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	9.99	ND 
+6818	PFFDPQIP	8	960.1	410 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	3.80	ND 
+6821	ENLHLP	6	721.81	>1000 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.24	ND 
+6822	LENLHLP	7	834.97	>1000 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.24	ND 
+6823	LTDLENLHLP	10	1164.32	>1000 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	4.35	ND 
+6827	LHLPLP	6	688.87	2.9 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	6.74	ND 
+6828	NLHLPLP	7	802.97	51 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	6.74	ND 
+6829	ENLHLPLP	8	932.09	155 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.24	ND 
+6830	LENLHLPLP	9	1045.25	86 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.24	ND 
+6833	VPQPIP	6	649.79	290 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.49	ND 
+6834	QVPQPIP	7	777.92	660 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.52	ND 
+6835	PQTLALP	7	738.88	110 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.96	ND 
+6839	VLPIPQ	6	665.83	5300 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.49	ND 
+6843	PQEVLP	6	681.79	910 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	4.00	ND 
+6844	IPQEVLP	7	794.95	690 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	4.00	ND 
+6846	VLPYPV	6	686.85	420 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.49	ND 
+6847	PVRAVP	6	637.78	170 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	10.18	ND 
+6849	PVQALLLNQELLLNP	15	1675	ND 	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	4.00	ND 
+6851	PHQIYP	6	753.86	30 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	7.17	ND 
+6852	PPHQIYP	7	850.97	22 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	7.17	ND 
+6853	NPPHQIYP	8	965.08	37 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	6.74	ND 
+6854	LNPPHQIYP	9	1078.24	25 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	6.74	ND 
+6855	LLNPPHQIYP	10	1191.4	9.6 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	6.74	ND 
+6857	TTMPLW	6	747.91	16 μM	Human (Synthetic peptide of Human beta casein)	ND	RP-HPLC, TLC, FAB-MS	Kasahara and Ashihara (1981)	ND	5.19	ND 
+6858	RLPSEFDLSAFLRA	14	1622.85	0.46 mg/ml	Fungi (Mushroom (Branched Oyster Mushroom (Pleurotus cornucopiae)))	SHR	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.07	ND 
+6859	RLSGQTIEVTSEYLFRH	17	2037.26	1.14 mg/ml	Fungi (Mushroom (Branched Oyster Mushroom (Pleurotus cornucopiae)))	SHR	RP-HPLC, UF	Cushman and Cheung (1971)	ND	6.76	ND 
+6860	VYPFPG	6	678.79	ND 	Cheese whey protein	SHR	RP-HPLC, UF	Cushman and Cheung (1971)	ND	5.49	ND 
+6867	TPVVVPPFLQP	11	1193.45	ND 	Cheese whey protein	SHR	RP-HPLC, GFC	Yamamoto et al.	ND	5.19	8 
+6883	TAQVTSTEV	9	935	ND 	Casein (Sheep kappa-casein)	ND	RP-HPLC	ND	ND	4.00	ND 
+6884	QVTSTEV	7	762.82	ND 	Casein (Sheep kappa-casein)	ND	RP-HPLC	ND	ND	4.00	ND 
+6886	JGWPGPKVPP	10	1045.2	ND 	Snake (aspic viper (Vipera aspis))	ND	ND	ND	ND	6.3	ND 
+6888	JRWPHLEIPP	10	1255.4	ND 	Snake (Brazilian rattlesnake (Crotalus durissus collilineatus), South American rattlesnake (Crotalus durissus terrificus))	ND	ND	ND	ND	6.2	ND 
+6889	JNWKSP	6	741.8	ND 	Snake (Brazilian rattlesnake (Crotalus durissus collilineatus), South American rattlesnake (Crotalus durissus terrificus))	ND	ND	ND	ND	6.3	ND 
+6890	TPPAGPDGGPP	11	962	ND 	Snake (Brazilian rattlesnake (Crotalus durissus collilineatus), South American rattlesnake (Crotalus durissus terrificus))	ND	ND	ND	ND	5.4	ND 
+6891	JKWDPPPPSPP	11	1228.3	ND 	Snake (jararaca (Bothrops jararaca))	ND	ND	ND	ND	5.5	ND 
+6892	JKWPGPKVP	9	1018.6	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6894	JKWPPGKVPP	10	115.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6895	JKWPKGPLPP	10	1129.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6896	JKWPHEHPP	9	1137.6	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6897	JKWALPKVPP	10	1145.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6898	JNWPRPGPEIP	11	1272.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6899	JKWHRNPEIP	10	1286.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6900	JNWPRPGPEIPP	12	1369.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6901	JKWPRPGPEIPP	12	1383.7	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6902	JGLPPGPVIPP	11	1054.2	ND 	Snake (jararaca (Bothrops jararaca))	ND	ND	ND	ND	2.0	ND 
+6903	VLYRDG	6	721.8	ND 	Oriental sesame (Sesamum indicum)	ND	ND	ND	ND	7.7	ND 
+6904	LEIAKNGLSTTSNPKR	16	1728.1	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	9.99	ND 
+6905	JGLPPRPKIPP	11	1182.4	ND 	Snake (Chinese water mocassin / mamushi (Agkistrodon halys blomhoffi / Gloydius blomhoffi), jararaca (Bothrops jararaca))	ND	ND	ND	ND	8.3	ND 
+6911	JKWPRP	6	793.4	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6912	JKWPGPK	7	822.5	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	ND	ND 
+6913	DLRPDNAKA	9	998.5	ND 	Snake (Bothrops moojeni)	ND	ND	ND	ND	5.96	ND 
+6915	JGRPPGPPIP	10	998.1	ND 	Snake (Chinese water mocassin / mamushi (Agkistrodon halys blomhoffi / Gloydius blomhoffi))	ND	ND	ND	ND	7.2	ND 
+6916	JGLPPGPPIPP	11	1052.2	ND 	Snake (Chinese water mocassin / mamushi (Agkistrodon halys blomhoffi / Gloydius blomhoffi))	ND	ND	ND	ND	2.0	ND 
+6917	JKWDPPPVSPP	11	1230.3	ND 	Snake (Chinese water mocassin / mamushi (Agkistrodon halys blomhoffi / Gloydius blomhoffi))	ND	ND	ND	ND	5.5	ND 
+6918	JWPRPTPQIPP	11	1299.5	ND 	Snake (jararaca (Bothrops jararaca), Neuwied's lancehead (Bothrops neuwiedi))	ND	ND	ND	ND	7.2	ND 
+6919	JWPRPQIPP	9	1101.3	ND 	Snake (jararaca (Bothrops jararaca), Neuwied's lancehead (Bothrops neuwiedi))	ND	ND	ND	ND	7.2	ND 
+6920	JNWPRPQIPP	10	1215.3	ND 	Snake (jararaca (Bothrops jararaca), Neuwied's lancehead (Bothrops neuwiedi))	ND	ND	ND	ND	7.2	ND 
+6921	JNWPHPQIPP	10	1196.3	ND 	Snake (jararaca (Bothrops jararaca), Neuwied's lancehead (Bothrops neuwiedi))	ND	ND	ND	ND	4.0	ND 
+6922	JSWPGPNIPP	10	1075.2	ND 	Snake (jararaca (Bothrops jararaca), snake (Bothrops moojeni))	ND	ND	ND	ND	2.0	ND 
+6923	JGGWPRPGPEIPP	13	1370.5	ND 	Snake (jararaca (Bothrops jararaca), snake (Bothrops moojeni))	ND	ND	ND	ND	6.2	ND 
+6924	VYIHPF	6	774.9	ND 	Human (Homo sapiens), rat (Rattus norvegicus)	ND	ND	ND	ND	6.9	ND 
+6935	WPPRPQIPP	9	1088.1	ND 	Bushmaster (Lachesis muta muta)	ND	ND	ND	ND	8.0	ND 
+6936	JKPWPPGHHIPP	12	1244.6	ND 	Bushmaster (Lachesis muta muta)	ND	ND	ND	ND	6.1	ND 
+6937	JEWPPGHHIPP	11	1404.6	ND 	Bushmaster (Lachesis muta muta)	ND	ND	ND	ND	4.6	ND 
+6938	JKKWPPGHHIPP	12	1277.4	ND 	Bushmaster (Lachesis muta muta)	ND	ND	ND	ND	7.0	ND 
+6939	JKWDPPPISPP	11	1374.2	ND 	Bushmaster (Lachesis muta muta)	ND	ND	ND	ND	5.5	ND 
+6940	LNENLLRFFVAPFPEVFG	18	2109.46	280 µM	Bovine (Bos taurus)	ND	ND	ND	ND	4.53	ND 
+6941	NENLLRFFVAPFPEVFG	17	1996.3	55 µM	Bovine (Bos taurus)	ND	ND	ND	ND	4.53	ND 
+6942	ENLLRFFVAPFPEVFG	16	1882.19	250 µM	Bovine (Bos taurus)	ND	ND	ND	ND	4.53	ND 
+6943	QTQYTDAPSFSDIPNPIGSENSEKTTMPLW	30	3355.63	346 mM/L	Bovine (Bos taurus)	ND	ND	ND	ND	3.92	ND 
+6944	DELQDKIHPFAQTQSLVYPFPGPIPNS	27	3039.39	4 mM/L	Bovine (Bos taurus)	ND	ND	ND	ND	4.54	ND 
+6945	KYPVEPFTESQSLTL	15	1738.96	93 mM/L	Bovine (Bos taurus)	ND	ND	ND	ND	4.53	ND 
+6946	VENLHLPLPLL	11	1257.54	175 µM	Bovine (Bos taurus)	ND	ND	ND	ND	5.24	ND 
+6947	ENLHLPLPLL	10	1158.41	250 µM	Bovine (Bos taurus)	ND	ND	ND	ND	5.24	ND 
+6948	PPQSVLSLSQSKVLPVPQ	18	1904.24	25 mM/L	Bovine (Bos taurus)	ND	ND	ND	ND	9.18	ND 
+6949	LLYQEPVLGPVRGPFPIIV	19	2107.57	21 mM/L	Bovine (Bos taurus)	ND	ND	ND	ND	6.00	ND 
+6950	GAPGLPGP	8	664.76	29.4 µM	Chicken(Gallus gallus)	ND	ND	ND	ND	5.52	ND 
+6951	GAPGPAGPGGIPGERG	16	1346.47	45.6 µM	Chicken(Gallus gallus)	ND	ND	ND	ND	6.00	ND 
+6952	GLPGSRGERGLPG	13	1252.4	60.8 µM	Chicken(Gallus gallus)	ND	ND	ND	ND	9.60	ND 
+6953	GIPGERGPVGPSG	13	1179.3	43.4 µM	Chicken(Gallus gallus)	ND	ND	ND	ND	6.00	ND 
+6954	GPPGTDGAP	9	767.79	10.5 mM	Bovine (Bos taurus)	ND	ND	ND	ND	3.80	ND 
+6955	GPPGAP	6	494.55	11.3 mM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6956	GPPGPP	6	520.59	11.3 mM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6957	GPAGAP	6	468.51	8.3 mM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6958	GPPGAP	6	494.55	8.6 mM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6959	GPIGSVGAP	9	753.85	31.8 mM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6960	GPIGPP	6	536.63	123.4 µM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6961	GPVGPA	6	496.56	123.4 µM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6962	LANVST	6	603.6	ND 	Bovine (Bos taurus)	ND	ND	ND	ND	6.1	ND 
+6965	WYSLAM	6	769.91	56.3 µM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6966	WYSLAMA	7	840.99	59.9 µM	Bovine (Bos taurus)	ND	ND	ND	ND	5.52	ND 
+6967	CVQSCSFGPLTWSCDGNTK	19	2033.28	ND 	Bacterium (Streptomyces sp.)	ND	ND	ND	ND	5.82	ND 
+6971	ASYDTKF	7	830.89	920 µM	Soybean (Glycine max)	ND	ND	ND	ND	5.88	ND 
+6975	PNNKPFQ	7	843.94	33 µM	Soybean (Glycine max)	ND	ND	ND	ND	9.18	ND 
+6976	EDENNPFYLR	10	1296.36	730 µM	Soybean (Glycine max)	ND	ND	ND	ND	4.14	ND 
+6977	IPPGVPYWT	9	1029.2	64 µM	Soybean (Glycine max)	ND	ND	ND	ND	5.52	ND 
+6978	MLGQTPTK	8	875.05	ND 	Pig (Sus scrofa)	ND	ND	ND	ND	8.50	ND 
+6979	LGQTPTK	7	743.86	ND 	Pig (Sus scrofa)	ND	ND	ND	ND	8.75	ND 
