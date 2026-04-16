@@ -81,18 +81,6 @@ The scripts expose several options through environment variables, including:
 
 Please refer to the script headers in `code/Modeling.py`, `code/MLLMFeature.py`, and `code/Model_pred.py` for the current defaults.
 
-## Citation
-
-If you use this repository in your research, please cite the corresponding paper:
-
-```bibtex
-@article{mfgcn_pep,
-  title={Integrating Multi-modal Language Models with Graph Structural Learning for Bioactive Peptide Prediction},
-  author={To be updated},
-  journal={To be updated},
-  year={2026}
-}
-```
 
 ## Contact
 
